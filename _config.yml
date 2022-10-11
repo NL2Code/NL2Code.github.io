@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/avatar/256x256.png
+avatar: https://raw.githubusercontent.com/NL2Code/NL2Code.github.io/main/assets/avatar/256x256.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
