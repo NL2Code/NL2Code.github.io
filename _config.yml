@@ -99,10 +99,10 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo:             # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: 'NL2Code/NL2Code.github.io'           # <gh-username>/<repo>
+    repo_id: 'R_kgDOIL6u9Q'
+    category: 'Announcements'
+    category_id: 'DIC_kwDOIL6u9c4CR6cK'
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
