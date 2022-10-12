@@ -4,6 +4,7 @@ author: coder
 date: 2021-07-14 00:00:00 +0800
 categories: [arxiv]
 tags: [methods, models, benchmarks, metrics]
+math: true
 pin: false
 ---
 
@@ -92,23 +93,23 @@ pin: false
 
 ## 🎃Proposed Model
 
-- 🖊️Model Name: `Codex`
-- 📚Publisher/Date: `Arxiv/2021`
-- 🏠Author Affiliation: `OpenAI`
-- ⚒️Architecture: `Transformer-based neural networks (decoder)`
-- 📀Traing Corpus: `A lot of code files`
-- 🔥Supported Natural Language: `English`
-- 💧Supported Programming Language: `Python`
-- 🧚Model Size: `12M`; `25M`; `42M`; `85M`; `300M`; `679M`; `2.5B`; `12B`; `175B`
-- 📢Public Item: `None`
+- Model Name: `Codex`
+- Publisher/Date: `Arxiv/2021`
+- Author Affiliation: `OpenAI`
+- Architecture: `Transformer-based neural networks (decoder)`
+- Traing Corpus: `A lot of code files`
+- Supported Natural Language: `English`
+- Supported Programming Language: `Python`
+- Model Size: `12M`; `25M`; `42M`; `85M`; `300M`; `679M`; `2.5B`; `12B`; `175B`
+- Public Item: `None`
 - 🔗URL: `None`
 
 ## 📚Proposed Benchmark
 
-- 🖊️Benchmark Name: `HumanEval`
-- 📚Publisher/Date: `Arxiv/2021`
-- 🏠Author Affiliation: `OpenAI`
-- 🚩Supported Metric: `pass@k`
+- Benchmark Name: `HumanEval`
+- Publisher/Date: `Arxiv/2021`
+- Author Affiliation: `OpenAI`
+- Supported Metric: `pass@k`
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -132,7 +133,7 @@ pin: false
     * [ ] Educational
     * [ ] Other Domains
   + 👑Library
-    * [ ] Public Library
+    * [x] Public Library
     * [ ] Private Library
   + 🎯Level
     * [ ] Line Level
@@ -144,3 +145,12 @@ pin: false
 - 🔗URL: `https://github.com/openai/human-eval`
 
 ## 🚩Proposed Metric
+
+- Metric Name: `pass@k`
+- Definition: We generate $n \geq k$ samples per task (in this paper, we use $n=200$ and $k \leq 100$), count the number of correct samples $c \leq n$ which pass unit tests. If $n - c < k$, then pass@k=1; otherwise, pass@k = $1-\prod\nolimits_{i=n-c+1}^{n} (1-k/i)$.
+- Merits and Demerits
+  + This allows to accurately evaluate the produced code quality via test cases.
+  + Annotating test cases is difficult and costly.
+
+
+
