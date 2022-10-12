@@ -58,12 +58,13 @@ pin: false
     * [ ] Dynamic/Statical PL
     * [ ] Procedure/Object/Aspect Orient PL
     * [ ] Other Characteristics
-  + 🪵Static Resource
+  + 🪵Resource
     * [x] Code Files
     * [ ] Test Cases
     * [ ] Repositories
     * [ ] Bugs and Debug Infos
     * [ ] API Document
+    * [ ] Official Tutorial
     * [ ] Abstract Syntax Tree (AST)
     * [ ] Data/Control Flow (DF/CF)
     * [ ] Variable 
@@ -81,6 +82,9 @@ pin: false
   + HumanEval
   + APPs
 - ✈️Base Model
+  + GPT-Neo
+  + GPT-J
+  + TabNine
   + Codex
 - 💕Contribution
   + They introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities.
@@ -88,18 +92,55 @@ pin: false
 
 ## 🎃Proposed Model
 
-- Model Name: `Codex`
+- 🖊️Model Name: `Codex`
 - 📚Publisher/Date: `Arxiv/2021`
 - 🏠Author Affiliation: `OpenAI`
-- Architecture: `Transformer-based neural networks (decoder)`
-- Traing Corpus: `A lot of code files`
-- Supported Natural Language: `English`
-- Supported Programming Language: `Python`; `Java`; `C++`
-- Model Size: `80M`; `12B`; `175B`
-- Public Items: `None`
-- Training Details 
-- URL: `None`
+- ⚒️Architecture: `Transformer-based neural networks (decoder)`
+- 📀Traing Corpus: `A lot of code files`
+- 🔥Supported Natural Language: `English`
+- 💧Supported Programming Language: `Python`
+- 🧚Model Size: `12M`; `25M`; `42M`; `85M`; `300M`; `679M`; `2.5B`; `12B`; `175B`
+- 📢Public Item: `None`
+- 🔗URL: `None`
 
 ## 📚Proposed Benchmark
+
+- 🖊️Benchmark Name: `HumanEval`
+- 📚Publisher/Date: `Arxiv/2021`
+- 🏠Author Affiliation: `OpenAI`
+- 🚩Supported Metric: `pass@k`
+- 🔏Input (NL)
+  + 🚩Language: `English`
+  + 🌟Format
+    * [x] Code Context
+    * [ ] Plain Natural Language
+    * [ ] Competition Problem
+    * [ ] Code Comment
+    * [ ] TODO
+    * [ ] Other Formats
+  + 💈Description Granularity
+    * [ ] Why? (Background)
+    * [x] What? (Requirement, TODO)
+    * [ ] How? (Algorithm Process)
+    * [ ] Other Granularities
+- 🔑Output (code)
+  + 🚩Language: `Python`
+  + ⛺Domain
+    * [x] General
+    * [ ] Mathematical
+    * [ ] Chemical
+    * [ ] Educational
+    * [ ] Other Domains
+  + 👑Library
+    * [ ] Public Library
+    * [ ] Private Library
+  + 🎯Level
+    * [ ] Line Level
+    * [x] Function Level
+    * [ ] Class Level
+    * [ ] File Level
+    * [ ] Repository Level
+    * [ ] Other Levels
+- 🔗URL: `https://github.com/openai/human-eval`
 
 ## 🚩Proposed Metric
