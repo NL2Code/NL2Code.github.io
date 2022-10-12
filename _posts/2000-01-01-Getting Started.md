@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 author: coder
-date: 2022-10-01 00:00:00 +0800
+date: 2000-01-01 00:00:00 +0800
 categories: [Getting Started]
 tags: [Getting Started]
 pin: true
