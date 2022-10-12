@@ -88,6 +88,18 @@ pin: false
 
 ## 🎃Proposed Model
 
+- Model Name: `Codex`
+- 📚Publisher/Date: `Arxiv/2021`
+- 🏠Author Affiliation: `OpenAI`
+- Architecture: `Transformer-based neural networks (decoder)`
+- Traing Corpus: `A lot of code files`
+- Supported Natural Language: `English`
+- Supported Programming Language: `Python`; `Java`; `C++`
+- Model Size: `80M`; `12B`; `175B`
+- Public Items: `None`
+- Training Details 
+- URL: `None`
+
 ## 📚Proposed Benchmark
 
 ## 🚩Proposed Metric
