@@ -9,11 +9,11 @@ pin: false
 
 ## 🌸Method
 
-- 📙Paper: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
-- Publisher/Date: `Arxiv/2021`
-- Author Affiliation: `OpenAI`
-- Neural Network (NN)
-  + Architecture
+- 📙Title: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
+- 📚Publisher/Date: `Arxiv/2021`
+- 🏠Author Affiliation: `OpenAI`
+- 🌐Neural Network (NN)
+  + ⚒️Architecture
     * [ ] Feedforward NN (FNN)
     * [ ] Convolutional NN (CNN)
     * [ ] Recurrent NN (RNN)
@@ -24,7 +24,7 @@ pin: false
     * [ ] Diffussion
     * [x] Transformer-based Neural Networks including Encode and Decode
     * [ ] Other
-  + How to learn
+  + ⚙️How to learn
     * [ ] Supervised Transfer Learning
     * [x] Unsupervised Transfer Learning
     * [ ] Reinforcement Learning (RL)
@@ -33,7 +33,7 @@ pin: false
     * [ ] Contrastive Learning
     * [ ] Retrieved-based Learning
     * [ ] Other
-  + Paradigm
+  + 🧬Paradigm
     * [ ] Non-pre-train
     * [ ] Pre-train and Fine-tune
     * [x] Zero-shot Learning
@@ -41,24 +41,24 @@ pin: false
     * [ ] In-context Learning
     * [ ] Prompt/Adapt/LoRA Learning
     * [ ] Other
-  + Other Directions of NN
+  + 🛳️Other Directions of NN
     * [ ] Model Compression
     * [ ] Social Bias
     * [ ] Interpretability
     * [ ] Multi-Modal
     * [ ] Other
-- Software Engineering (SE)
+- 🧑🏻‍💻Software Engineering (SE)
   + [ ] Software Development
   + [ ] Intergrated Development Environment (IDE) and Tool
   + [ ] Software Maintenance
   + [ ] Other
-- Programming Language (PL)
-  + Characteristics
+- 🤖Programming Language (PL)
+  + 🪪Characteristics
     * [ ] Executable
     * [ ] Dynamic/Statical PL
     * [ ] Procedure/Object/Aspect Orient PL
     * [ ] Other Characteristics
-  + Static Resource
+  + 🪵Static Resource
     * [x] Code Files
     * [ ] Test Cases
     * [ ] Repositories
@@ -70,24 +70,24 @@ pin: false
     * [ ] PL keywords
     * [ ] Code Comment
     * [ ] Other Resources
-  + Platform
+  + 🚀Platform
     * [x] GitHub
     * [ ] Gitee
     * [ ] StackOverFlow
     * [ ] CodeForces
     * [ ] LeetCode
     * [ ] Other Platform
-- Benchmark
+- 🗂️Downstream Benchmark
   + HumanEval
   + APPs
-- Model
+- ✈️Base Model
   + Codex
-- Contribution
+- 💕Contribution
   + They introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities.
   + They release HumanEval, a new evaluation set to measure functional correctness for synthesizing programs from docstrings.
 
-## 🎃Model
+## 🎃Proposed Model
 
-## 📚Benchmark
+## 📚Proposed Benchmark
 
-## 🚩Metric
+## 🚩Proposed Metric
