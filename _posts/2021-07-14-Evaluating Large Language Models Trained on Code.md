@@ -109,6 +109,7 @@ pin: false
 - Benchmark Name: `HumanEval`
 - Publisher/Date: `Arxiv/2021`
 - Author Affiliation: `OpenAI`
+- 🔗URL: [https://github.com/openai/human-eval](https://github.com/openai/human-eval)
 - Supported Metric: `pass@k`
 - 🔏Input (NL)
   + 🚩Language: `English`
@@ -142,15 +143,11 @@ pin: false
     * [ ] File Level
     * [ ] Repository Level
     * [ ] Other Levels
-- 🔗URL: `https://github.com/openai/human-eval`
 
 ## 🚩Proposed Metric
 
 - Metric Name: `pass@k`
 - Definition: We generate $n \geq k$ samples per task (in this paper, we use $n=200$ and $k \leq 100$), count the number of correct samples $c \leq n$ which pass unit tests. If $n - c < k$, then pass@k=1; otherwise, pass@k = $1-\prod\nolimits_{i=n-c+1}^{n} (1-k/i)$.
-- Merits and Demerits
+- 😄Merits and 😒Demerits
   + This allows to accurately evaluate the produced code quality via test cases.
   + Annotating test cases is difficult and costly.
-
-
-
