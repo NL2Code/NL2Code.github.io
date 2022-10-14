@@ -90,9 +90,9 @@ pin: false
 
 - Model Name: `PLBART`
 - Publisher/Date: `NAACL/2021`
-- Author Affiliation: `University of California, Los Angeles`; `Columbia University`
+- Author Affiliation: University of California, Los Angeles; Columbia University
 - Architecture: `Transformer-based neural networks (encoder-decoder)`
-- Traing Corpus: `All the GitHub repositories associated with Java and Python language on Google BigQuery`； `StackOverflow posts`
+- Traing Corpus: `GitHub repositories on Google BigQuery`； `StackOverflow posts`
 - Supported Natural Language: (Mostly) `English`
 - Supported Programming Language: `Java`; `Python`
 - Model Size: `140M`
