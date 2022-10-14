@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About
-
 ## 🐹Background
 
 In software engineering field, code generation, alias NL2Code, aims to generate decent code snippet for a given natural language description.
