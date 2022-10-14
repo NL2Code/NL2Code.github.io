@@ -70,6 +70,6 @@ pin: false
 
 ## 📘Reference
 
-[^py150]: https://raw.githubusercontent.com/microsoft/CodeXGLUE/main/Code-Code/CodeCompletion-line/dataset/py150/line_completion/test.json
-[^concode]: https://arxiv.org/abs/1808.09588
-[^codesearchnet]: https://arxiv.org/pdf/1909.09436
+[^py150]: [https://raw.githubusercontent.com/microsoft/CodeXGLUE/main/Code-Code/CodeCompletion-line/dataset/py150/line_completion/test.json](https://raw.githubusercontent.com/microsoft/CodeXGLUE/main/Code-Code/CodeCompletion-line/dataset/py150/line_completion/test.json)
+[^concode]: [https://arxiv.org/abs/1808.09588](https://arxiv.org/abs/1808.09588)
+[^codesearchnet]: [https://arxiv.org/pdf/1909.09436](https://arxiv.org/pdf/1909.09436)
