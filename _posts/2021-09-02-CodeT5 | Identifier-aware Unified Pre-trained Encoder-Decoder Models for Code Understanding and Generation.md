@@ -10,7 +10,7 @@ pin: false
 
 ## 🌸Method
 
-- 📙Title: [CodeT5 | Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation](https://arxiv.org/pdf/2109.00859.pdf)
+- 📙Title: [CodeT5 Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation](https://arxiv.org/pdf/2109.00859.pdf)
 - 📚Publisher/Date: `EMNLP/2021`
 - 🏠Author Affiliation: Salesfore Research Asia; Nanyang Technological University
 - 🌐Neural Network (NN)
