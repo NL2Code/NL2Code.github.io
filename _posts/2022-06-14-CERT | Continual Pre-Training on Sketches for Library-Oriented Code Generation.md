@@ -100,14 +100,14 @@ pin: false
 - Traing Corpus: `A lot of code files`
 - Supported Natural Language: `English`
 - Supported Programming Language: `Python`
-- Model Size: `12M`; `25M`; `42M`; `85M`; `300M`; `679M`; `2.5B`; `12B`; `175B`
-- Public Item: `checkpoint`; `training data`; `training code`; `inference code`
-- 🔗URL: `None`
+- Model Size: `112M`
+- Public Item: `checkpoint`; `training code`; `inference code`
+- 🔗URL: [https://github.com/microsoft/PyCodeGPT](https://github.com/microsoft/PyCodeGPT)
 
 ## 📚Proposed Benchmark
 
-- Benchmark Name: `HumanEval`
-- Publisher/Date: `Arxiv/2021`
+- Benchmark Name: `PandasEval&NumpyEval`
+- Publisher/Date: `IJCAI/2021`
 - Author Affiliation: `Chinese Academy of Sciences`; `University of Chinese Academy of Sciences`; `Microsoft Research Asia`; `Korea University`; `Microsoft Azure AI`
 - 🔗URL: [https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval](https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval)
 - Supported Metric: `pass@k`
