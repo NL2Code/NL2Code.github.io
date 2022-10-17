@@ -95,19 +95,19 @@ pin: false
 
 - Model Name: `PyCodeGPT`
 - Publisher/Date: `IJCAI/2022`
-- Author Affiliation: `OpenAI`
+- Author Affiliation: `Chinese Academy of Sciences`; `University of Chinese Academy of Sciences`; `Microsoft Research Asia`; `Korea University`; `Microsoft Azure AI`
 - Architecture: `Transformer-based neural networks (decoder)`
 - Traing Corpus: `A lot of code files`
 - Supported Natural Language: `English`
 - Supported Programming Language: `Python`
-- Model Size: `112M`
+- Model Size: `110M`
 - Public Item: `checkpoint`; `training code`; `inference code`
 - 🔗URL: [https://github.com/microsoft/PyCodeGPT](https://github.com/microsoft/PyCodeGPT)
 
 ## 📚Proposed Benchmark
 
 - Benchmark Name: `PandasEval&NumpyEval`
-- Publisher/Date: `IJCAI/2021`
+- Publisher/Date: `IJCAI/2022`
 - Author Affiliation: `Chinese Academy of Sciences`; `University of Chinese Academy of Sciences`; `Microsoft Research Asia`; `Korea University`; `Microsoft Azure AI`
 - 🔗URL: [https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval](https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval)
 - Supported Metric: `pass@k`
@@ -148,7 +148,7 @@ pin: false
 
 ## 📘Reference
 
-[^humaneval]: https://github.com/openai/human-eval
-[^pandas-numpy-eval]: https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval
-[^pycodegpt]: https://github.com/microsoft/PyCodeGPT
-[^codegen]: https://github.com/salesforce/CodeGen
+[^humaneval]: [https://github.com/openai/human-eval](https://github.com/openai/human-eval)
+[^pandas-numpy-eval]: [https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval](https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval)
+[^pycodegpt]: [https://github.com/microsoft/PyCodeGPT](https://github.com/microsoft/PyCodeGPT)
+[^codegen]: [https://github.com/salesforce/CodeGen](https://github.com/salesforce/CodeGen)
