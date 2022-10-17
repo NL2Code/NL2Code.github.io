@@ -1,7 +1,7 @@
 ---
 title: CodeParrot
 author: coder
-date: 2021-07-14 00:00:00 +0800
+date: 2021-12-02 00:00:00 +0800
 categories: [other]
 tags: [models]
 math: true
