@@ -111,7 +111,7 @@ pin: false
 - Architecture: `Transformer-based neural networks (decoder)`
 - Traing Corpus: `A lot of code files`
 - Supported Natural Language: `English`; `Chinese`, etc.
-- Supported Programming Language: `C`; `C++`; `CSS`; `C#`; `Common Lisp`; `Dart`; `Forth`; `Go`; `HTML`; `Haskell`; `Java`; `JavaScript`; `Julia`; `Jupyter`; `Kotlin; `Lua`; `Matlab`; `PHP`; `Perl`; `Python`; `R`; `Ruby`; `Rust`; `SQL`; `Scala`; `Shell`; `Swift`; and `TypeScript`
+- Supported Programming Language: `C`; `C++`; `CSS`; `C#`; `Common Lisp`; `Dart`; `Forth`; `Go`; `HTML`; `Haskell`; `Java`; `JavaScript`; `Julia`; `Jupyter`; `Kotlin`; `Lua`; `Matlab`; `PHP`; `Perl`; `Python`; `R`; `Ruby`; `Rust`; `SQL`; `Scala`; `Shell`; `Swift`; and `TypeScript`
 - Model Size: `1.3B`; `6.7B`
 - Public Item: `checkpoint`; `inference code`
 - 🔗URL: [https://github.com/dpfried/incoder/blob/main/README.md](https://github.com/dpfried/incoder/blob/main/README.md)
