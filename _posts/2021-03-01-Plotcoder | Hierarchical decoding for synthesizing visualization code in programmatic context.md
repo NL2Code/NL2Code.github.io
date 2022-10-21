@@ -96,6 +96,8 @@ pin: false
 - Author Affiliation: `UC Berkeley`
 - Note: The benchmark used in this paper is adapted from [the original JuiCe paper](https://arxiv.org/abs/1910.02216).
 - 🔗URL: [https://github.com/rajasagashe/juice](https://github.com/rajasagashe/juice)
+- Feature: JuiCe provides refined human-curated data, open-domain code, and an order of magnitude more training data.
+- Details: we present JuiCe, a corpus of `1.5` million examples with a curated test set of `3.7K` instances based on online programming assignments.
 - Supported Metric: `plot type accuracy`; `plot data accuracy`; `program accuracy`
 - 🔏Input (NL)
   + 🚩Language: `English`
