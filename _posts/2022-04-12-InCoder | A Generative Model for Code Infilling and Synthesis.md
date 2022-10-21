@@ -119,14 +119,14 @@ pin: false
 
 ## 📘Reference
 
-[^roberta]: [https://arxiv.org/pdf/1907.11692.pdf%5C](https://arxiv.org/pdf/1907.11692.pdf%5C)
+[^roberta]: [https://arxiv.org/pdf/1907.11692.pdf](https://arxiv.org/pdf/1907.11692.pdf)
 [^codexglue]: [https://microsoft.github.io/CodeXGLUE](https://microsoft.github.io/CodeXGLUE)
 [^mbpp]: [https://huggingface.co/datasets/Muennighoff/mbpp](https://huggingface.co/datasets/Muennighoff/mbpp)
 [^codeforce]: [https://codeforces.com](https://codeforces.com)
 [^codecontests]: [https://github.com/deepmind/code_contests](https://github.com/deepmind/code_contests)
 [^apps]: [https://github.com/hendrycks/apps](https://github.com/hendrycks/apps)
 [^humaneval]: [https://github.com/openai/human-eval](https://github.com/openai/human-eval)
-[^gpeneo]: [https://huggingface.co/docs/transformers/model_doc/gpt_neo](https://huggingface.co/docs/transformers/model_doc/gpt_neo)
+[^gptneo]: [https://huggingface.co/docs/transformers/model_doc/gpt_neo](https://huggingface.co/docs/transformers/model_doc/gpt_neo)
 [^codebert]: [https://github.com/microsoft/CodeBERT](https://github.com/microsoft/CodeBERT)
 [^plbart]: [https://github.com/wasiahmad/PLBART](https://github.com/wasiahmad/PLBART)
 [^codet5]: [https://github.com/salesforce/CodeT5](https://github.com/salesforce/CodeT5)
