@@ -110,6 +110,8 @@ pin: false
 - Publisher/Date: `Arxiv/2021`
 - Author Affiliation: `OpenAI`
 - 🔗URL: [https://github.com/openai/human-eval](https://github.com/openai/human-eval)
+- Feature: Standalone Code Generation
+- Details: We evaluate functional correctness on a set of `164` handwritten programming problems, which we call the HumanEval dataset. Each problem includes a function signature, docstring, body, and several unit tests, with an average of `7.7` tests per problem. It is important for these tasks to be hand-written, since our models are trained on a large fraction of GitHub, which already contains solutions to problems from a variety of sources.
 - Supported Metric: `pass@k`
 - 🔏Input (NL)
   + 🚩Language: `English`
