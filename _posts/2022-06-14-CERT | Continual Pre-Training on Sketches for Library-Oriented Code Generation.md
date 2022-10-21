@@ -111,7 +111,7 @@ pin: false
 - Author Affiliation: `Chinese Academy of Sciences`; `University of Chinese Academy of Sciences`; `Microsoft Research Asia`; `Korea University`; `Microsoft Azure AI`
 - 🔗URL: [https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval](https://github.com/microsoft/PyCodeGPT/tree/main/cert/pandas-numpy-eval)
 - Feature: Library-oriented code generation
-- Details: we craft two evaluation benchmarks for Python libraries, called PandasEval and NumpyEval, each including `101` programming problems using Pandas and NumPy, respectively.
+- Details: We craft two evaluation benchmarks for Python libraries, called PandasEval and NumpyEval, each including `101` programming problems using Pandas and NumPy, respectively.
 - Supported Metric: `pass@k`
 - 🔏Input (NL)
   + 🚩Language: `English`
