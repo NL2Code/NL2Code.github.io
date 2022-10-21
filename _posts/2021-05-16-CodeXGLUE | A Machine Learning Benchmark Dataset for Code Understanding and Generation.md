@@ -19,6 +19,8 @@ pin: false
 - Sub-benchmark
   + PY150[^py150]
   + CONCODE[^concode]
+- Feature: CodeXGLUE is a benchmark dataset and open challenge for code intelligence. It includes a collection of code intelligence tasks and a platform for model evaluation and comparison. CodeXGLUE stands for General Language Understanding Evaluation benchmark for CODE. It includes 14 datasets for 10 diversified code intelligence tasks.
+- Details: Please refer [the origin paper](https://arxiv.org/pdf/2102.04664.pdf) for more details.
 - Supported Metric: `EM`; `ES`; `Accuracy`; `BLEU`; `CodeBLEU`
 - 🔏Input (NL)
   + 🚩Language: `English`
