@@ -3,17 +3,16 @@ title: PanGu-Coder | Program Synthesis with Function-Level Language Modeling
 author: coder
 date: 2021-07-22 00:00:00 +0800
 categories: [arxiv]
-tags: [methods, models, benchmarks, metrics]
+tags: [methods, models]
 math: true
 pin: false
 ---
 
 ## 🌸Method
 
-- 📙Title: [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374.pdf)
-- 📚Publisher/Date: `Arxiv/2021`
-- 🏠Author Affiliation: `OpenAI`
-- 🔗URL: [xxx]
+- 📙Title: [PanGu-Coder Program Synthesis with Function-Level Language Modeling](https://arxiv.org/pdf/2207.11280.pdf)
+- 📚Publisher/Date: `Arxiv/2022`
+- 🏠Author Affiliation: Huawei Noah's Ark Lab; Huawei Cloud
 - 🌐Neural Network (NN)
   + ⚒️Architecture
     * [ ] Feedforward NN (FNN)
@@ -27,7 +26,7 @@ pin: false
     * [x] Transformer-based Neural Networks including Encode and Decode
     * [ ] Other
   + ⚙️How to learn
-    * [ ] Supervised Transfer Learning
+    * [x] Supervised Transfer Learning
     * [x] Unsupervised Transfer Learning
     * [ ] Reinforcement Learning (RL)
     * [ ] Multi-task Learning
@@ -37,7 +36,7 @@ pin: false
     * [ ] Other
   + 🧬Paradigm
     * [ ] Non-pre-train
-    * [ ] Pre-train and Fine-tune
+    * [x] Pre-train and Fine-tune
     * [x] Zero-shot Learning
     * [ ] One/two/few-shot Learning
     * [ ] In-context Learning
@@ -77,104 +76,34 @@ pin: false
     * [x] GitHub
     * [ ] Gitee
     * [ ] StackOverFlow
-    * [ ] CodeForces
+    * [x] CodeForces
     * [ ] LeetCode
-    * [ ] Other Platform
+    * [x] Other Platform
 - 🗂️Downstream Benchmark
-  + HumanEval
-  + APPs
-- ✈️Base Model
-  + GPT-Neo
-  + GPT-J
-  + TabNine
-  + Codex
+  + HumanEval[^humaneval]
+  + MBPP[^mbpp]
+- ✈️Relevant Model
+  + GPT-Neo[^gptneo]
+  + AlphaCode[^alphacode]
+  + CodeGen[^codegen]
+  + PanGu-Coder
 - 💕Contribution
-  + They introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities.
-  + They release HumanEval, a new evaluation set to measure functional correctness for synthesizing programs from docstrings.
+  + We present PanGu-Coder, a pre-trained language model for text-to-code generation.
 
 ## 🎃Proposed Model
 
-- Model Name: `Codex`
-- Publisher/Date: `Arxiv/2021`
-- Author Affiliation: `OpenAI`
+- Model Name: `PanGu-Coder`
+- Publisher/Date: `Arxiv/2022`
+- Author Affiliation: Huawei Noah's Ark Lab; Huawei Cloud
 - Architecture: `Transformer-based neural networks (decoder)`
-- Traing Corpus: `A lot of code files`
+- Pre-traing Corpus: `A lot of code files`
+- Fine-tuning Corpus: `Competitive Programming Data` including APPS[^apps] and CodeContests[^codecontests]; `Continuous Integration Data`
 - Supported Natural Language: `English`
 - Supported Programming Language: `Python`
-- Model Size: `12M`; `25M`; `42M`; `85M`; `300M`; `679M`; `2.5B`; `12B`; `175B`
-- Public Item: `checkpoint`; `training data`; `training code`; `inference code`
+- Model Size: `317M`; `2.6B`
+- Public Item: `None`
 - 🔗URL: `None`
 
-## 📚Proposed Benchmark
-
-- Benchmark Name: `HumanEval`
-- Publisher/Date: `Arxiv/2021`
-- Author Affiliation: `OpenAI`
-- 🔗URL: [https://github.com/openai/human-eval](https://github.com/openai/human-eval)
-- Sub-benchmark
-  * XXX
-- Feature: Multi-turn Evaluation
-- Supported Metric: `pass@k`; `EM`; `ES`; `Accuracy`; `BLEU`; `CodeBLEU`
-- 🔏Input (NL)
-  + 🚩Language: `English`
-  + 🌟Format
-    * [x] Code Context
-    * [ ] Plain Natural Language
-    * [ ] Competition Problem
-    * [ ] Code Comment
-    * [ ] TODO
-    * [ ] Other Formats
-  + 💈Description Granularity
-    * [ ] Why? (Background)
-    * [x] What? (Requirement, TODO)
-    * [ ] How? (Algorithm Process)
-    * [ ] Other Granularities
-- 🔑Output (code)
-  + 🚩Language: `Python`
-  + ⛺Domain
-    * [x] General
-    * [ ] Data Analysis and Manipulation
-    * [ ] Plotting
-    * [ ] Mathematical
-    * [ ] Chemical
-    * [ ] Educational
-    * [ ] Other Domains
-  + 👑Library
-    * [x] Public Library
-    * [ ] Private Library
-  + 🎯Level
-  	* [ ] Token Level
-    * [ ] Line Level
-    * [x] Function Level
-    * [ ] Class Level
-    * [ ] File Level
-    * [ ] Repository Level
-    * [ ] Other Levels
-
-## 🚩Proposed Metric
-
-- Metric Name: `pass@k`
-- Definition: We generate $n \geq k$ samples per task (in this paper, we use $n=200$ and $k \leq 100$), count the number of correct samples $c \leq n$ which pass unit tests. If $n - c < k$, then pass@k=1; otherwise, pass@k = $1-\prod\nolimits_{i=n-c+1}^{n} (1-k/i)$.
-- 😄Merits and 😒Demerits
-  + This allows to accurately evaluate the produced code quality via test cases.
-  + Annotating test cases is difficult and costly.
-
-
-## ⛳Products
-
-- 📗Product Name: [Copilot](https://github.com/features/copilot/)
-- Date: `2021-06-29`
-- Developer: `GitHub`; `OpenAI`
-- ☂️Technology
-  + [x] Pre-trained model
-    * Codex
-  + [ ] Other rule-based method
-- 🔏Supported Natural Language (NL): `English`; `Chinese` and so on
-- 🔑Supported Programming Language (PL): `Python`; `TypeScript`; `JavaScript`; `Java`; `Ruby`; `Go`; `C#`; `C++` and so on
-- 🚗Supported Integrated Development Environment (IDE): `Visual Studio Code`; `Visual Studio`; `Neovim`; `JetBrains IDEs`
-- 🔆Supported Feature
-  + Generating one or more code snippets
-- Is It Free: `No`
 
 ## 📘Reference
 
@@ -185,7 +114,7 @@ pin: false
 [^codecontests]: [https://github.com/deepmind/code_contests](https://github.com/deepmind/code_contests)
 [^apps]: [https://github.com/hendrycks/apps](https://github.com/hendrycks/apps)
 [^humaneval]: [https://github.com/openai/human-eval](https://github.com/openai/human-eval)
-[^gpeneo]: [https://huggingface.co/docs/transformers/model_doc/gpt_neo](https://huggingface.co/docs/transformers/model_doc/gpt_neo)
+[^gptneo]: [https://huggingface.co/docs/transformers/model_doc/gpt_neo](https://huggingface.co/docs/transformers/model_doc/gpt_neo)
 [^codebert]: [https://github.com/microsoft/CodeBERT](https://github.com/microsoft/CodeBERT)
 [^plbart]: [https://github.com/wasiahmad/PLBART](https://github.com/wasiahmad/PLBART)
 [^codet5]: [https://github.com/salesforce/CodeT5](https://github.com/salesforce/CodeT5)
