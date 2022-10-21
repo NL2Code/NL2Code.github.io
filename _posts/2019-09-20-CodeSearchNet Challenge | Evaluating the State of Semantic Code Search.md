@@ -16,7 +16,7 @@ pin: false
 - 🔗URL: [https://github.com/github/CodeSearchNet](https://github.com/github/CodeSearchNet)
 - Feature: This benchmark was originally intended for code retrieval and can also be used for code generation.
 - Details: To enable evaluation of progress on code search, we are releasing the `CodeSearchNet` Corpus and are presenting the `CodeSearchNet` Challenge, which consists of `99` natural language queries with about `4k` expert relevance annotations of likely results from CodeSearchNet Corpus. The corpus contains about `6` million functions from open-source code spanning six programming languages (Go, Java, JavaScript, PHP, Python, and Ruby). The CodeSearchNet Corpus also contains automatically generated query-like natural language for `2` million functions, obtained from mechanically scraping and preprocessing associated function documentation.
-- Supported Metric: `Mean Reciprocal Rank (MRR)`
+- Supported Metric: `Mean Reciprocal Rank (MRR)`[^mrr]
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -54,3 +54,6 @@ pin: false
     * [ ] Repository Level
     * [ ] Other Levels
 
+## 📘Reference
+
+[^mrr]: [https://en.wikipedia.org/wiki/Mean_reciprocal_rank](https://en.wikipedia.org/wiki/Mean_reciprocal_rank)
