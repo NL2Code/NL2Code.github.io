@@ -113,6 +113,7 @@ pin: false
 - 🔗URL: [https://github.com/salesforce/CodeGen/tree/main/benchmark](https://github.com/salesforce/CodeGen/tree/main/benchmark)
 - Supported Metric: `pass@k`
 - Feature: Multi-turn Evaluation
+- Details: we construct an open benchmark, Multi-Turn Programming Benchmark (MTPB), consisting of `115` diverse problem sets that are factorized into multi-turn prompts.
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
