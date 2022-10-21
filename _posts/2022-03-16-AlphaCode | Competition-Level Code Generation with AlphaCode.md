@@ -111,6 +111,8 @@ pin: false
 - Publisher/Date: `Arxiv/2022`
 - Author Affiliation: `DeepMind`
 - 🔗URL: [https://github.com/deepmind/code_contests](https://github.com/deepmind/code_contests)
+- Feature: Competition-Level code generation
+- Details: This dataset was used when training AlphaCode, please refer [the origin repository](https://github.com/deepmind/code_contests) for details.
 - Supported Metric: `pass@k`; `10@k`
 - 🔏Input (NL)
   + 🚩Language: `English`
