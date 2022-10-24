@@ -101,7 +101,7 @@ pin: false
 - Supported Natural Language: `English`
 - Supported Programming Language: `Python`
 - Model Size: `12M`; `25M`; `42M`; `85M`; `300M`; `679M`; `2.5B`; `12B`; `175B`
-- Public Item: `None`
+- Public Item: `OpenAI API`
 - 🔗URL: `None`
 
 ## 📚Proposed Benchmark
