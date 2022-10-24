@@ -3,7 +3,7 @@ title: InCoder | A Generative Model for Code Infilling and Synthesis
 author: coder
 date: 2022-04-12 00:00:00 +0800
 categories: [arxiv]
-tags: [methods, models]
+tags: [methods, models, benchmarks]
 math: true
 pin: false
 ---
