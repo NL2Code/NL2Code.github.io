@@ -85,8 +85,8 @@ pin: false
     * [ ] Other Platform
 - 🗂️Downstream Benchmark
   + HumanEval[^humaneval]
-  + HumanEvalInfilling-smline[^humaneval-sm]
-  + HumanEvalInfilling-random[^humaneval-rr]
+  + HumanEvalInfilling-smline[^humaneval-sm][^footnote]
+  + HumanEvalInfilling-random[^footnote][^humaneval-rr]
 - ✈️Relevant Model
   + InCoder[^incoder]
   + Codex[^codex]
@@ -184,3 +184,4 @@ pin: false
 [^codex]: [https://arxiv.org/pdf/2107.03374.pdf](https://arxiv.org/pdf/2107.03374.pdf)
 [^incoder]: [https://github.com/dpfried/incoder/blob/main/README.md](https://github.com/dpfried/incoder/blob/main/README.md)
 [^codesearchnet]: [https://github.com/github/CodeSearchNet](https://github.com/github/CodeSearchNet)
+[^footnote]: The original paper does not name the benchmark.
