@@ -116,6 +116,58 @@ pin: false
 - Public Item: `checkpoint`; `inference code`
 - 🔗URL: [https://github.com/dpfried/incoder/blob/main/README.md](https://github.com/dpfried/incoder/blob/main/README.md)
 
+## 📚Proposed Benchmark
+
+> The paper does not name the dataset.
+{: .prompt-warning }
+
+- Benchmark Name: `HumanEvalInfilling-smline`
+- 📚Publisher/Date: `Arxiv/2022`
+- 🏠Author Affiliation: Facebook AI Research; University of Washington; UC Berkeley; TTI-Chicago; Carnegie Mellon
+- 🔗URL: [https://github.com/dpfried/incoder/tree/main/evaluation](https://github.com/dpfried/incoder/tree/main/evaluation)
+- Sub-benchmark
+  * HumanEval[^humaneval]
+- Feature: Single-line and multi-line infilling.
+- Details: Different spans of non-empty lines in the canonical solutions of HumanEval[^humaneval] are turned into a FIM task.
+- Supported Metric: `pass@k`
+- 🔏Input (NL)
+  + 🚩Language: `English`
+  + 🌟Format
+    * [x] Code Context
+    * [ ] Plain Natural Language
+    * [ ] Competition Problem
+    * [ ] Code Comment
+    * [ ] TODO
+    * [ ] Other Formats
+  + 💈Description Granularity
+    * [ ] Why? (Background)
+    * [x] What? (Requirement, TODO)
+    * [ ] How? (Algorithm Process)
+    * [ ] Other Granularities
+- 🔑Output (code)
+  + 🚩Language: `Python`
+  + ⛺Domain
+    * [x] General
+    * [ ] Data Analysis and Manipulation
+    * [ ] Plotting
+    * [ ] Mathematical
+    * [ ] Chemical
+    * [ ] Educational
+    * [ ] Other Domains
+  + 👑Library
+    * [x] Build-in Library
+    * [ ] Public Library
+    * [ ] Private Library
+  + 🎯Level
+  	* [ ] Token Level
+    * [ ] Line Level
+    * [ ] Span Level
+    * [x] Function Level
+    * [ ] Class Level
+    * [ ] File Level
+    * [ ] Repository Level
+    * [ ] Other Levels
+
 
 ## 📘Reference
 
