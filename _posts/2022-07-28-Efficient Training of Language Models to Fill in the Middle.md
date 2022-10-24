@@ -13,7 +13,7 @@ pin: false
 
 ## 🌸Method
 
-- 📙Title: [Efficient Training of Language Models to Fill in the Middle]([https://arxiv.org/pdf/2107.03374.pdf](https://arxiv.org/pdf/2207.14255.pdf))
+- 📙Title: [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/pdf/2207.14255.pdf)
 - 📚Publisher/Date: `Arxiv/2022`
 - 🏠Author Affiliation: `OpenAI`
 - 🔗URL: `None`
