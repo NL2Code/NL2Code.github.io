@@ -10,7 +10,7 @@ pin: false
 
 ## 🌸Method
 
-- 📙Title: [PyMT5 | multi-mode translation of natural language and Python code with transformers](https://arxiv.org/pdf/2010.03150.pdf)
+- 📙Title: [PyMT5 multi-mode translation of natural language and Python code with transformers](https://arxiv.org/pdf/2010.03150.pdf)
 - 📚Publisher/Date: `EMNLP/2020`
 - 🏠Author Affiliation: Microsoft Cloud and AI; Stanford University
 - 🔗URL: `None`
