@@ -5,12 +5,11 @@ date: 2022-06-14 00:00:00 +0800
 categories: [IJCAI]
 tags: [methods, models, benchmarks]
 math: true
-pin: false
 image:
   path: /assets/imgs/CERT-1.png
   width: 800
   height: 500
-  alt: Overview of CERT: a sketcher and a generator.
+  alt: Overview of CERT | a sketcher and a generator.
 ---
 
 ## 🌸Method
