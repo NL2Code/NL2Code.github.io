@@ -11,6 +11,7 @@ swcache: true
     "categories": {{ post.categories | join: ', ' | jsonify }},
     "tags": {{ post.tags | join: ', ' | jsonify }},
     "date": "{{ post.date }}",
+    "content": {{ post.content | jsonify }},
     {% include no-linenos.html content=post.content %}
     "snippet": {{ content | strip_html | strip_newlines | truncate: 200 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
