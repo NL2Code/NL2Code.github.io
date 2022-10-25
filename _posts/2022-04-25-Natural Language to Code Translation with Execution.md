@@ -9,7 +9,7 @@ image:
   path: /assets/imgs/MBR-exec.png
   width: 400
   height: 500
-  alt: Illustration of MBR-exec on translating natural language to Python code. We (1) sample programs from Codex[^codex], (2) execute each program on one test case, and (3) select the example with the minimal execution result–based Bayes risk. Numbers around dotted lines denote the 0/1 matching loss between execution results, while the Bayes risk of a program is defined by the sum of the loss between itself and other examples. In the figure, either Code #1 or Code #3 can be selected. Ground-truth program output is not needed for selection.
+  alt: Illustration of MBR-exec on translating natural language to Python code.
 ---
 
 ## 🌸Method
