@@ -90,6 +90,7 @@ image:
   + Codex[^codex]
 - 💕Contribution
   + In this paper, we take a first step towards addressing the problem above by proposing the workflow of test-driven user-intent formalization (`TDUIF`), which leverages lightweight user feedback to jointly (a) formalize the user intent as tests (a partial specification), and (b) generates code that meets the formal user intent.
+  + We have developed a system `TiCoder` that implements several solutions to `TDUIF`, and compare their relative effectiveness on the MBPP academic code generation benchmark[^mbpp].
 
 
 ## 📘Reference
