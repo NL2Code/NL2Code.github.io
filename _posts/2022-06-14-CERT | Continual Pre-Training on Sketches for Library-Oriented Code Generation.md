@@ -7,8 +7,8 @@ tags: [methods, models, benchmarks]
 math: true
 image:
   path: /assets/imgs/CERT-1.png
-  width: 800
-  height: 500
+  width: 400
+  height: 700
   alt: Overview of CERT including a sketcher and a generator.
 ---
 
