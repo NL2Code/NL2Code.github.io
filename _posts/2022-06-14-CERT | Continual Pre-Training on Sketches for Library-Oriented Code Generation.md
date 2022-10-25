@@ -9,7 +9,7 @@ image:
   path: /assets/imgs/CERT-1.png
   width: 800
   height: 500
-  alt: Overview of CERT | a sketcher and a generator.
+  alt: Overview of CERT including a sketcher and a generator.
 ---
 
 ## 🌸Method
