@@ -2,14 +2,14 @@
 title: Latent Predictor Networks for Code Generation
 author: coder
 date: 2016-05-22 00:00:00 +0800
-categories: [ACM]
+categories: [ACM, ASE]
 tags: [methods, benchmarks]
 math: true
 image:
   path: /assets/imgs/MTG-HS.png
   width: 800
   height: 500
-  alt: Generation process for the code [init('Tirion Fordring',8,6,6)] using LPNs.
+  alt: Generation process using Latent Predictor Networks.
 ---
 
 ## 🌸Method
@@ -102,7 +102,7 @@ image:
 - Feature: Generating code for cards in Trading Card Games (TCGs).
 - Details: 
 
-![Window shadow](/assets/imgs/TCG.png){: .shadow width="1548" height="864" .w-75 }
+![Window shadow](/assets/imgs/TCG.png){: .shadow width="1000" height="564" .w-75 }
 _Statistics of the two TCG datasets._
 
 - Supported Metric: `BLEU`; `acc`
