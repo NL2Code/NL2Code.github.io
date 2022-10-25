@@ -20,8 +20,10 @@ image:
 - 🔗URL: [https://github.com/hendrycks/apps](https://github.com/hendrycks/apps)
 - Feature: The `APPS` dataset consists of problems collected from different open-access coding websites such as Codeforces, Kattis, and more. 
 - Details: 
+
 ![Window shadow](/assets/imgs/APPS-2.png){: .shadow width="1548" height="864" .w-75 }
 _A comparison of the APPS dataset to existing datasets for converting between text and code._
+
 - Supported Metric: `Test Case Average`; `Strict Accuracy`
 - 🔏Input (NL)
   + 🚩Language: `English`
