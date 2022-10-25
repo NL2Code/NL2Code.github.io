@@ -55,7 +55,7 @@ pin: false
   + [ ] Other
 - 🤖Programming Language (PL)
   + 🪪Characteristics
-    * [ ] Executable
+    * [x] Executable
     * [ ] Dynamic/Statical PL
     * [ ] Procedure/Object/Aspect Orient PL
     * [ ] Other Characteristics
