@@ -21,7 +21,7 @@ image:
 - Feature: In this work we introduce a large and diverse parallel corpus of a hundred thousands Python functions with their documentation strings (”docstrings”) to train a neural model.
 - Details: We release a parallel corpus of `150370` triples of function declarations, function docstrings and function bodies. We include multiple corpus splits, and an additional "monolingual" code-only corpus with corresponding synthetically generated docstrings.
 
-  ![Window shadow](/assets/imgs/code-doc-corpus-2.png){: .shadow width="100" height="40" }
+  ![Window shadow](/assets/imgs/code-doc-corpus-2.png){: .shadow width="500" height="30" }
   _Number of examples, tokens and lines of code in the corpora._
 
 - Supported Metric: `BLEU`
