@@ -18,7 +18,8 @@ math: true
 - Feature: This task tests the model's ability to solve coding challenges in python.
 - Details: There are `32` total challenges in this task, categorized as very easy (`7`), easy (`14`), medium (`14`), and hard (`7`). Code that the model produces is compiled and run against test cases. Scores are computed for the number of solutions that compile and the accuracy of each solution across test cases.
 
-  ```
+  ```python
+  # One example:
   Name: Binary addition
   Difficulty: Very Easy
 
