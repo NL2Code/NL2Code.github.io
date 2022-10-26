@@ -1,5 +1,5 @@
 ---
-title: Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models
+title: Beyond the Imitation Game | Quantifying and extrapolating the capabilities of language models
 author: coder
 date: 2022-06-09 00:00:00 +0800
 categories: [arxiv]
