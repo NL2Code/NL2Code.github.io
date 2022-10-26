@@ -73,10 +73,12 @@
       {% endcapture %}
 
       {% if url %}
-      <a href="{{ url }}" aria-label="{{ entry.type }}"
-        {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
-        <i class="{{ entry.icon }}"></i>
-      </a>
+        {%- if entry.type == 'github' -%}
+          <a href="{{ url }}" aria-label="{{ entry.type }}"
+            {% unless entry.noblank %}target="_blank" rel="noopener"{% endunless %}>
+            <i class="{{ entry.icon }}"></i>
+          </a>
+        {%- endif -%}
       {% endif %}
 
     {% endfor %}
