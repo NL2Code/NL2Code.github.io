@@ -20,6 +20,7 @@ image:
 - 🔗URL: [https://conala-corpus.github.io](https://conala-corpus.github.io)
 - Details: We have released a dataset crawled from `Stack Overflow`, automatically filtered, then curated by annotators, split into `2,379` training and `500` test examples. We also provide a large automatically-mined dataset with 600k examples, and links to other similar datasets. These data sets can be used for the `CoNaLa` challenge, or for any other research on the intersection of code and natural language.
 - Supported Metric: `BLEU`
+- Test Case: ❌
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -28,6 +29,7 @@ image:
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
