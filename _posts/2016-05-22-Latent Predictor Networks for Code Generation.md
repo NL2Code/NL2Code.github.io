@@ -106,6 +106,7 @@ image:
 _Statistics of the two TCG datasets._
 
 - Supported Metric: `BLEU`; `acc`
+- Test Case: ❌
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -115,6 +116,7 @@ _Statistics of the two TCG datasets._
     * [ ] Code Comment
     * [ ] TODO
     * [x] Trading Card Games's Content
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
