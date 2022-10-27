@@ -114,6 +114,7 @@ pin: false
 - Supported Metric: `pass@k`
 - Feature: Multi-turn Evaluation
 - Details: we construct an open benchmark, Multi-Turn Programming Benchmark (MTPB), consisting of `115` diverse problem sets that are factorized into multi-turn prompts.
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -122,6 +123,7 @@ pin: false
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
@@ -139,8 +141,10 @@ pin: false
     * [ ] Educational
     * [ ] Other Domains
   + 👑Library
+    * [ ] Build-in Library
     * [x] Public Library
     * [ ] Private Library
+    * [ ] Other Libraries
   + 🎯Level
   	* [ ] Token Level
     * [x] Line Level
@@ -149,7 +153,6 @@ pin: false
     * [ ] File Level
     * [ ] Repository Level
     * [ ] Other Levels
-
 
 ## 📘Reference
 
