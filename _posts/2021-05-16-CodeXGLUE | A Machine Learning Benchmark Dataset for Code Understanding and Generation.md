@@ -8,6 +8,19 @@ math: true
 pin: false
 ---
 
+## 🎃Proposed Model
+
+- Model Name: `CodeGPT`
+- Publisher/Date: `Arxiv/2021`
+- Author Affiliation: Peking University; Sun Yat-sen University; Beihang University; Microsoft
+- Architecture: `Transformer-based neural networks (decoder)`
+- Traing Corpus: `CodeSearchNet`[^codesearchnet]
+- Supported Natural Language: `English`
+- Supported Programming Language: `Java`; `Python`
+- Model Size: `CodeGPT-small`
+- Public Item: `checkpoint`
+- 🔗URL: [https://huggingface.co/microsoft/CodeGPT-small-java-adaptedGPT2](https://huggingface.co/microsoft/CodeGPT-small-java-adaptedGPT2)
+
 ## 📚Proposed Benchmark
 
 - Benchmark Name: [CodeXGLUE](https://arxiv.org/pdf/2102.04664.pdf)
@@ -57,20 +70,6 @@ pin: false
     * [ ] File Level
     * [ ] Repository Level
     * [ ] Other Levels
-
-
-## 🎃Proposed Model
-
-- Model Name: `CodeGPT`
-- Publisher/Date: `Arxiv/2021`
-- Author Affiliation: Peking University; Sun Yat-sen University; Beihang University; Microsoft
-- Architecture: `Transformer-based neural networks (decoder)`
-- Traing Corpus: `CodeSearchNet`[^codesearchnet]
-- Supported Natural Language: `English`
-- Supported Programming Language: `Java`; `Python`
-- Model Size: `CodeGPT-small`
-- Public Item: `checkpoint`
-- 🔗URL: [https://huggingface.co/microsoft/CodeGPT-small-java-adaptedGPT2](https://huggingface.co/microsoft/CodeGPT-small-java-adaptedGPT2)
 
 ## 📘Reference
 
