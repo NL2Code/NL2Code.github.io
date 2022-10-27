@@ -5,7 +5,11 @@ date: 2022-07-28 00:00:00 +0800
 categories: [arxiv]
 tags: [methods, models, benchmarks]
 math: true
-pin: false
+image:
+  path: /assets/imgs/FIM-1.png
+  width: 800
+  height: 500
+  alt: The model architecture for our suite of models.
 ---
 
 > Note that we only report the `nl2code` related parts.
