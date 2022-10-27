@@ -9,7 +9,7 @@ math: true
 
 ## 🌸Method
 
-- 📙Title: [NAPS | Natural Program Synthesis Dataset](https://arxiv.org/pdf/1807.03168.pdf)
+- 📙Title: [NAPS Natural Program Synthesis Dataset](https://arxiv.org/pdf/1807.03168.pdf)
 - 📚Publisher/Date: `ICML/2018`
 - 🏠Author Affiliation: `Near`
 - 🔗URL: [https://near.ai/research/naps](https://near.ai/research/naps)
