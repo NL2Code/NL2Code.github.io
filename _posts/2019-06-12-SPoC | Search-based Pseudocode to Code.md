@@ -37,7 +37,7 @@ image:
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
 - 🔑Output (code)
-  + 🚩Language: `Python`
+  + 🚩Language: `C++`
   + ⛺Domain
     * [x] General
     * [ ] Data Analysis and Manipulation
