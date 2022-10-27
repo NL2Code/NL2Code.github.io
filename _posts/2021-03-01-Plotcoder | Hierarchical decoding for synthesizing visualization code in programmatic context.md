@@ -99,6 +99,7 @@ pin: false
 - Feature: JuiCe provides refined human-curated data, open-domain code, and an order of magnitude more training data.
 - Details: we present JuiCe, a corpus of `1.5` million examples with a curated test set of `3.7K` instances based on online programming assignments.
 - Supported Metric: `plot type accuracy`; `plot data accuracy`; `program accuracy`
+- Test Case： ❌
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -108,6 +109,7 @@ pin: false
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
