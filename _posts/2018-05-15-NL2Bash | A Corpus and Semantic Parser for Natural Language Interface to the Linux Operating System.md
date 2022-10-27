@@ -98,6 +98,7 @@ image:
 - Feature: Generating linux shell commands
 - Details: The corpus consists of text–command pairs, where each pair consists of a Bash command scraped from the web and an expert-generated natural language description. We collected `12,609` text–command pairs in total. After filtering, `9,305` pairs remained. We split this data into train, development (dev), and test sets, subject to the constraint that neither a natural language description nor a Bash command appears in more than one split.
 - Supported Metric: `manual evaluation`; $Acc^{k}_{F}$; $Acc^{k}_{T}$
+- Test Case: ❌
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -106,6 +107,7 @@ image:
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
