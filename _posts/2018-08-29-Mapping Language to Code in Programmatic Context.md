@@ -102,6 +102,7 @@ image:
   _Statistics of our dataset of (NL, context and code) tuples collected from Github._
 
 - Supported Metric: `Exact`; `BLEU`
+- Test Case: ❌
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -110,6 +111,7 @@ image:
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
