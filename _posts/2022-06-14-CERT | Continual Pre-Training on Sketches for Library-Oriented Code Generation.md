@@ -117,6 +117,7 @@ image:
 - Feature: Library-oriented code generation
 - Details: We craft two evaluation benchmarks for Python libraries, called PandasEval and NumpyEval, each including `101` programming problems using Pandas and NumPy, respectively.
 - Supported Metric: `pass@k`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -125,6 +126,7 @@ image:
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
@@ -141,8 +143,10 @@ image:
     * [ ] Educational
     * [ ] Other Domains
   + 👑Library
+    * [ ] Build-in Library
     * [x] Public Library
     * [ ] Private Library
+    * [ ] Other Libraries
   + 🎯Level
   	* [ ] Token Level
     * [x] Line Level
