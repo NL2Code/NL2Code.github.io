@@ -21,7 +21,7 @@ image:
 - Feature: We provide a new dataset and benchmark of questions from eight MIT Introduction to Machine Learning final exams between Fall 2017 and Spring 2022 and provide code for automatically answering these questions and generating new questions.
 - Details: We present a new dataset of `496` questions from the eight most recent final exams of MIT’s Introduction to Machine Learning course. The dataset spans questions on the 12 machine learning topics covered in the course: (1) regression, (2) classifiers, (3) logistic regression, (4) features, (5) loss functions, (6) neural networks, (7) convolutional neural networks (CNNs), (8) Markov decision processes (MDPs), (9) recurrent neural networks (RNNs), (10) reinforcement learning, (11) clustering, and (12) decision trees.
 
-![Window shadow](/assets/imgs/MIT-1.png){: .shadow width="400" height="500" .w-75 }
+![Window shadow](/assets/imgs/MIT-1.png){: .shadow width="300" height="400" .w-75 }
 _The number of questions and parts in the final for each topic of Introduction to Machine Learning._
 
 - Supported Metric: `grade score`
