@@ -121,6 +121,7 @@ pin: false
 - Feature: Span prediction.
 - Details: For each HumanEval[^humaneval] problem, we create infilling tasks by selecting the middle span from the canonical solution uniformly at random.
 - Supported Metric: `pass@k`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -129,6 +130,7 @@ pin: false
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
@@ -149,6 +151,7 @@ pin: false
     * [x] Build-in Library
     * [ ] Public Library
     * [ ] Private Library
+    * [ ] Other Libraries
   + 🎯Level
   	* [ ] Token Level
   	* [x] Span Level
