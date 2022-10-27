@@ -119,6 +119,7 @@ pin: false
 - Feature: Mathematics word problem
 - Details: We also introduce the GSM8K-Python task, which is derived from the GSM8K dataset[^gsm8k]. GSM8K consists of 8.5K high quality grade school math problems created by human problem writers.
 - Supported Metric: `pass@k`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -127,6 +128,7 @@ pin: false
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
