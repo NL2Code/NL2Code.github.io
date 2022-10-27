@@ -114,6 +114,7 @@ pin: false
 - Feature: Competition-Level code generation
 - Details: This dataset was used when training AlphaCode, please refer [the origin repository](https://github.com/deepmind/code_contests) for details.
 - Supported Metric: `pass@k`; `10@k`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -122,6 +123,7 @@ pin: false
     * [x] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [x] Why? (Background)
