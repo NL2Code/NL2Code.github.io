@@ -30,6 +30,7 @@ pin: false
 - Feature: The short language descriptions in mostly baic programming problems.
 - Details: The Mostly Basic Programming Problems dataset contains 974 short Python programs constructed by crowd-sourcing to an internal pool of crowdworkers who have basic knowledge of Python. We asked crowd-sourcing participants to write a short problem statement, a single self-contained Python function solving the problem specified, and three test cases that check for semantic correctness of the function. Participants also provided a ground-truth solution that passes all three test cases. Participants were instructed to write descriptions concrete enough that a human would be able to translate them into code without clarifications. They were also instructed to write code that is self-contained (that is, it runs by itself) and that does not print any results to the console. Use of internet references was allowed.
 - Supported Metric: `pass@100`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -38,6 +39,7 @@ pin: false
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
@@ -76,6 +78,7 @@ pin: false
 - Feature: We translate the MathQA benchmark[^mathqa] into a Python program synthesis dataset by translating the ground-truth programs from the domain-specific language given in the paper to Python code (mostly straight-line code, but more complex natural language descriptions).
 - Details: We are left with 23914 problems, of which we use 19209 for training, 2822 for validation and 1883 for testing. The translation between DSL and Python is straightforward and we supply code that can be used to perform it.
 - Supported Metric: `pass@100`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -84,6 +87,7 @@ pin: false
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
