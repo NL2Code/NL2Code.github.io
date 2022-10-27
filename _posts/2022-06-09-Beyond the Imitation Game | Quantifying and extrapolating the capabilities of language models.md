@@ -37,6 +37,7 @@ math: true
   ```
 
 - Supported Metric: `normalized prefered metric`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -45,6 +46,7 @@ math: true
     * [x] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [x] Why? (Background)
@@ -65,6 +67,7 @@ math: true
     * [x] Build-in Library
     * [ ] Public Library
     * [ ] Private Library
+    * [ ] Other Libraries
   + 🎯Level
   	* [ ] Token Level
     * [ ] Line Level
