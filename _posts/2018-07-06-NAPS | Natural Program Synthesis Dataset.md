@@ -3,7 +3,7 @@ title: NAPS | Natural Program Synthesis Dataset
 author: coder
 date: 2018-07-06 00:00:00 +0800
 categories: [ICML]
-tags: [methods, models]
+tags: [methods, benchmarks]
 math: true
 ---
 
@@ -99,6 +99,7 @@ math: true
 _NAPS Dataset Metrics._
 
 - Supported Metric: `accuracy`
+- Test Case: ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -107,6 +108,7 @@ _NAPS Dataset Metrics._
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
