@@ -20,6 +20,7 @@ image:
 - 🔗URL: [https://github.com/odashi/ase15-django-dataset](https://github.com/odashi/ase15-django-dataset)
 - Details: The Django dataset is a dataset for code generation comprising of `16000` training, `1000` development and `1805` test annotations. Each data point consists of a line of Python code together with a manually created natural language description.
 - Supported Metric: `BLEU`; `HumanEvaluation-Acceptability`; `HumanEvaluation-Code Understanding`
+- Test Case: ❌
 - 🔏Input (NL)
   + 🚩Language: `English`; `Japanese`
   + 🌟Format
@@ -28,6 +29,7 @@ image:
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
