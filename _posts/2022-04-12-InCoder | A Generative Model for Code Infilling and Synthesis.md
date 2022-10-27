@@ -130,6 +130,7 @@ pin: false
 - Feature: Single-line and multi-line infilling.
 - Details: Different spans of non-empty lines in the canonical solutions of HumanEval[^humaneval] are turned into a FIM task.
 - Supported Metric: `pass@k`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -138,6 +139,7 @@ pin: false
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
