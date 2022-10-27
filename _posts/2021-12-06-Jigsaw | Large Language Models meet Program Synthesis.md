@@ -105,6 +105,7 @@ image:
   + `PandasEval1` consists of `68` Python Pandas tasks. Each task can be solved using a single line of code by composing at most `2-3` Pandas functions; sometimes followed by assigning variables. This dataset was created by authors of this paper by going through queries in online forums like StackOverflow.
   + `PandasEval2`consists of `21` Pandas tasks; each task can be solved by composing at most `2-3` Pandas functions, possibly followed by assigning variables, as in the PandasEval1 dataset. We posed these tasks as illustrations, in a hackathon we conducted with `25` users over `2` different sessions.
 - Supported Metric: `mean accuracy`; `std. deviation`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -113,6 +114,7 @@ image:
     * [ ] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
