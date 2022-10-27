@@ -25,6 +25,7 @@ image:
   _Number of examples, tokens and lines of code in the corpora._
 
 - Supported Metric: `BLEU`
+- Test Case: ❌
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -33,6 +34,7 @@ image:
     * [ ] Competition Problem
     * [x] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
