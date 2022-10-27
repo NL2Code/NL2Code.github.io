@@ -25,6 +25,7 @@ image:
 _A comparison of the APPS dataset to existing datasets for converting between text and code._
 
 - Supported Metric: `Test Case Average`; `Strict Accuracy`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
@@ -33,6 +34,7 @@ _A comparison of the APPS dataset to existing datasets for converting between te
     * [x] Competition Problem
     * [ ] Code Comment
     * [ ] TODO
+    * [ ] Pseudocode
     * [ ] Other Formats
   + 💈Description Granularity
     * [ ] Why? (Background)
