@@ -24,7 +24,7 @@ image:
 - Feature: Cross-lingual code snippet dataset.
 - Details: Our dataset contains fine-grained parallel data from `8` languages (`7` commonly used programming languages and English), and supports `10` cross-lingual code tasks.
 
-  ![Window shadow](/assets/imgs/xlcost-2.png){: .shadow width="800" height="300" .w-75 }
+  ![Window shadow](/assets/imgs/xlcost-2.png){: .shadow width="1200" height="500" .w-75 }
   _Comparison against other parallel code datasets (Py - Python, JS - JavaScript). Column "Size" refers to the number of parallel data pairs. *This number is for single programs, not pairs._
 
 - Supported Metric: `BLEU`; `CodeBLEU`
