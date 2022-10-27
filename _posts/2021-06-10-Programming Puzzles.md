@@ -21,6 +21,7 @@ image:
 - Feature: Each puzzle takes the form of a Python function that takes an answer as an argument. The answer is an input which makes the function return `True`.
 - Details: `P3` uses Python, the de facto language of ML research, as the programming language for specifying puzzles. At the time of publication, `P3` currently has `397` problems.
 - Supported Metric: `The number of solved problems`
+- Test Case： ✅
 - 🔏Input (NL)
   + 🚩Language: `English`
   + 🌟Format
