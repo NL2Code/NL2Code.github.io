@@ -123,6 +123,13 @@ _Statistics of the two TCG datasets._
     * [x] What? (Requirement, Functionality, TODO)
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
+  + 🎯Additional Input
+    * [ ] None
+    * [ ] Class Information
+    * [ ] File Information
+    * [ ] Repository Information
+    * [x] Card Metadata
+    * [ ] Other Information
 - 🔑Output (code)
   + 🚩Language: `Python`; `Java`
   + ⛺Domain
