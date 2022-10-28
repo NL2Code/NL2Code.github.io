@@ -43,6 +43,12 @@ _Conversion of formatted MBPP (Python) to MBJP (Java)._
     * [x] What? (Requirement, Functionality, TODO)
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
+  + 🎯Additional Input
+    * [x] None
+    * [ ] Class Information
+    * [ ] File Information
+    * [ ] Repository Information
+    * [ ] Other Information
 - 🔑Output (code)
   + 🚩Language: `Python`; `Java`; `JavaScript`; `TypeScript`; `Go`; `Ruby`; `Kotlin`; `PHP`; `C#`; `Scala`; `C++`; `Swift`; `Perl`
   + ⛺Domain
