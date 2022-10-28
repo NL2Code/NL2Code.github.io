@@ -50,6 +50,12 @@ _MultiPL-E languages by frequency, as calculated by GitHut 2.0 and the TIOBE Pro
     * [x] What? (Requirement, Functionality, TODO)
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
+  + 🎯Additional Input
+    * [x] None
+    * [ ] Class Information
+    * [ ] File Information
+    * [ ] Repository Information
+    * [ ] Other Information
 - 🔑Output (code)
   + 🚩Language: `C++`; `C#`; `D`; `Go`; `Java`; `Julia`; `JavaScript`; `Lua`; `PHP`; `Perl`; `Python`; `R`; `Ruby`; `Racket`; `Rust`; `Scala`; `Bash`; `Swift`; `TypeScript`
   + ⛺Domain
