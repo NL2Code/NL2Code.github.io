@@ -170,12 +170,12 @@ image:
     * [ ] Private Library
     * [ ] Other Libraries
   + 🎯Level
-  	* [x] Token Level
-    * [x] Line Level
+  	* [x] Token Level (target)
+    * [x] Line Level (target)
     * [ ] Span Level
-    * [x] Function Level
+    * [x] Function Level (target)
     * [ ] Class Level
-    * [ ] File Level
+    * [x] File Level (context)
     * [ ] Repository Level
     * [ ] Other Levels
 
