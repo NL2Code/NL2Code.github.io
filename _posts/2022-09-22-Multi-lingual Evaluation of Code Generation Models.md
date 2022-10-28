@@ -23,7 +23,7 @@ image:
 - Feature: Multi-lingual evaluation of code generation
 - Details: We call our main benchmark MBXP, a result from conversion of the original Python dataset MBPP[^mbpp].
 
-![Window shadow](/assets/imgs/MBXP-2.png){: .shadow width="1048" height="664" .w-75 }
+![Window shadow](/assets/imgs/MBXP-2.png){: .shadow width="1548" height="864" .w-75 }
 _Conversion of formatted MBPP (Python) to MBJP (Java)._
 
 - Supported Metric: `pass@k`
