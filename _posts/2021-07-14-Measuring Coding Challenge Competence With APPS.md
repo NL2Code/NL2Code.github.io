@@ -41,6 +41,12 @@ _A comparison of the APPS dataset to existing datasets for converting between te
     * [x] What? (Requirement, TODO)
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
+  + 🎯Additional Input
+    * [x] None
+    * [ ] Class Information
+    * [ ] File Information
+    * [ ] Repository Information
+    * [ ] Other Information
 - 🔑Output (code)
   + 🚩Language: `Python`
   + ⛺Domain
