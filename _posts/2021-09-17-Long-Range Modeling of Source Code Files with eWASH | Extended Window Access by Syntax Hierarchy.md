@@ -154,7 +154,7 @@ image:
     * [x] What? (Requirement, Functionality, TODO)
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
-  + 🎯Additional Information
+  + 🎯Additional Input
     * [ ] None
     * [ ] Class Information
     * [x] File Information
