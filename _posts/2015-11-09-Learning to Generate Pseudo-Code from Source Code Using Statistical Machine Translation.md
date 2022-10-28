@@ -36,6 +36,12 @@ image:
     * [ ] What? (Requirement, TODO)
     * [x] How? (Algorithm Process)
     * [ ] Other Granularities
+  + 🎯Additional Input
+    * [x] None
+    * [ ] Class Information
+    * [ ] File Information
+    * [ ] Repository Information
+    * [ ] Other Information
 - 🔑Output (code)
   + 🚩Language: `Python`
   + ⛺Domain
