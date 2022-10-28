@@ -118,6 +118,12 @@ image:
     * [x] What? (Requirement, Functionality, TODO)
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
+  + 🎯Additional Input
+    * [ ] None
+    * [x] Class Information
+    * [ ] File Information
+    * [ ] Repository Information
+    * [ ] Other Information
 - 🔑Output (code)
   + 🚩Language: `Java`
   + ⛺Domain
