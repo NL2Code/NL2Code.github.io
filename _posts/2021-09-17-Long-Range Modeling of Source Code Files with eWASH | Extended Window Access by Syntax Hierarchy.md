@@ -154,6 +154,12 @@ image:
     * [x] What? (Requirement, Functionality, TODO)
     * [ ] How? (Algorithm Process)
     * [ ] Other Granularities
+  + 🎯Additional Information
+    * [ ] None
+    * [ ] Class Information
+    * [x] File Information
+    * [ ] Repository Information
+    * [ ] Other Information
 - 🔑Output (code)
   + 🚩Language: `Python`
   + ⛺Domain
@@ -170,12 +176,12 @@ image:
     * [ ] Private Library
     * [ ] Other Libraries
   + 🎯Level
-  	* [x] Token Level (target)
-    * [x] Line Level (target)
+    * [ ] Token Level
+    * [x] Line Level
     * [ ] Span Level
-    * [x] Function Level (target)
+    * [x] Function Level
     * [ ] Class Level
-    * [x] File Level (context)
+    * [ ] File Level
     * [ ] Repository Level
     * [ ] Other Levels
 
