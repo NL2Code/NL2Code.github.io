@@ -121,7 +121,7 @@ image:
     * [ ] Repository Information
     * [ ] Other Information
 - 🔑Output (code)
-  + 🚩Language: `Bash`
+  + 🚩Language: `Shell`
   + ⛺Domain
     * [x] General
     * [ ] Data Analysis and Manipulation
