@@ -14,7 +14,7 @@ image:
 
 ## 🌸Method
 
-- 📙Title: [Structural Language Models of Code]([https://arxiv.org/pdf/2107.03374.pdf](https://arxiv.org/pdf/1910.00577.pdf))
+- 📙Title: [Structural Language Models of Code](https://arxiv.org/pdf/1910.00577.pdf)
 - 📚Publisher/Date: `ICML/2020`
 - 🏠Author Affiliation: Technion, Israel; Tel Aviv University; Facebook AI Research
 - 🔗URL: [https://github.com/tech-srl/slm-code-generation](https://github.com/tech-srl/slm-code-generation); [https://anycodegen.org/](https://anycodegen.org/)
