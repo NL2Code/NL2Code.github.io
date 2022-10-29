@@ -159,4 +159,4 @@ image:
 ## 📘Reference
 
 [^codex]: [https://arxiv.org/pdf/2107.03374.pdf](https://arxiv.org/pdf/2107.03374.pdf)
-[^rlpg]: https://github.com/shrivastavadisha/repo_level_prompt_generation
+[^rlpg]: [https://github.com/shrivastavadisha/repo_level_prompt_generation](https://github.com/shrivastavadisha/repo_level_prompt_generation)
