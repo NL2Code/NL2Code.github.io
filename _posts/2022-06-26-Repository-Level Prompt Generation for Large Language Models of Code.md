@@ -5,6 +5,11 @@ date: 2022-06-26 00:00:00 +0800
 categories: [arxiv]
 tags: [methods, benchmarks, metrics]
 math: true
+image:
+  path: /assets/imgs/repo.png
+  width: 800
+  height: 500
+  alt: Repository-Level prompt generator.
 ---
 
 ## 🌸Method
@@ -87,7 +92,7 @@ math: true
   + Codex[^codex]
 - 💕Contribution
   + We propose a framework called the Repo-Level Prompt Generator (`RLPG`) that learns to generate prompts conditioned on the example, without requiring access to the weights of the LLM.
-  + To incorporate domain-knowledge in the prompt design process, RLPG uses a set of repositorylevel prompt proposals. These prompt proposals are designed to incorporate both the structure of the repository as well as the relevant context from all files in the repository.
+  + To incorporate domain-knowledge in the prompt design process, RLPG uses a set of repository level prompt proposals. These prompt proposals are designed to incorporate both the structure of the repository as well as the relevant context from all files in the repository.
   + On the task of single-line code-autocompletion, we show that an oracle constructed from our proposed prompt proposals gives up to `36%` relative improvement over Codex. This improvement is pleasantly surprising as Codex has never seen prompts made from these prompt proposals during training. Further, we show that when we use our prompt proposal classifier to predict the best prompt proposal, we can achieve up to `17%` relative improvement over Codex.
 
 ## 📙Proposed Benchmark
