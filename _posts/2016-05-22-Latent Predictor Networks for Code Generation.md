@@ -102,7 +102,7 @@ image:
 - Feature: Generating code for cards in Trading Card Games (TCGs).
 - Details: 
 
-![Window shadow](/assets/imgs/TCG.png){: .shadow width="700" height="364" .w-40 }
+![Window shadow](/assets/imgs/TCG.png){: .shadow width="500" height="264" .w-40 }
 _Statistics of the two TCG datasets._
 
 - Supported Metric: `BLEU`; `acc`
