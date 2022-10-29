@@ -37,7 +37,7 @@ tags: [benchmarks]
     * [ ] Repository Information
     * [ ] Other Information
 - 🔑Output (code)
-  + 🚩Language: `Python`
+  + 🚩Language: `Regular Expression`
   + ⛺Domain
     * [x] General
     * [ ] Data Analysis and Manipulation
