@@ -8,7 +8,7 @@ tags: [benchmarks]
 
 ## 📙Proposed Benchmark
 
-- Benchmark Name: `Regular Expression's dataset`[^re]
+- Benchmark Name: `KB13`[^re]
 - 📚Publisher/Date: `NAACL/2013`
 - 🏠Author Affiliation: Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology
 - 🔗URL: [http://groups.csail.mit.edu/rbg/code/regexp](http://groups.csail.mit.edu/rbg/code/regexp)
