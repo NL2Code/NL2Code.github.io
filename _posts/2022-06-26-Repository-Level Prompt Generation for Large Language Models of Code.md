@@ -5,11 +5,6 @@ date: 2022-06-26 00:00:00 +0800
 categories: [arxiv]
 tags: [methods, benchmarks, metrics]
 math: true
-image:
-  path: /assets/imgs/repo.png
-  width: 800
-  height: 500
-  alt: Repository-Level prompt generator.
 ---
 
 ## 🌸Method
