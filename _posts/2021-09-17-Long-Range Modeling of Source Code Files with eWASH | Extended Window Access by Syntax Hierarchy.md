@@ -3,7 +3,7 @@ title: Long-Range Modeling of Source Code Files with eWASH | Extended Window Acc
 author: coder
 date: 2021-09-17 00:00:00 +0800
 categories: [EMNLP]
-tags: [methods, models, benchmarks]
+tags: [methods, models, benchmarks, metrics]
 math: true
 image:
   path: /assets/imgs/eWASH.png
@@ -185,6 +185,14 @@ image:
     * [ ] Repository Level
     * [ ] Other Levels
 
+## 🚩Proposed Metric
+
+> The metric is proposed in SQuAD[^squad], and it was first introduced in `nl2code` for evaluating code completion models.
+{: .prompt-info }
+
+- Metric Name: `Exact Match@N (EM)`
+- Definition: It counts the fraction of exactly correct predictions of some length (@N).
+
 ## 📘Reference
 
 [^roberta]: [https://arxiv.org/pdf/1907.11692.pdf%5C](https://arxiv.org/pdf/1907.11692.pdf%5C)
@@ -220,3 +228,4 @@ image:
 [^gptc]: [https://arxiv.org/pdf/2005.08025.pdf](https://arxiv.org/pdf/2005.08025.pdf)
 [^pymt5]: [https://arxiv.org/pdf/2010.03150.pdf](https://arxiv.org/pdf/2010.03150.pdf)
 [^py150]: [https://github.com/google-research-datasets/eth_py150_open](https://github.com/google-research-datasets/eth_py150_open)
+[^squad]: https://arxiv.org/pdf/1606.05250.pdf
