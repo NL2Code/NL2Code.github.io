@@ -22,7 +22,8 @@ image:
 - 🚗Supported Integrated Development Environment (IDE): `IntelliJ`
 - ☂️Technology
   + [ ] Pre-trained AI model
-  + [x] Other rule-based method: Reinforcement Learning
+  + [x] Reinforcement Learning
+  + [ ] Other rule-based method
 - ♻️Availability
   + [ ] Waiting list
   + [x] Immediate
