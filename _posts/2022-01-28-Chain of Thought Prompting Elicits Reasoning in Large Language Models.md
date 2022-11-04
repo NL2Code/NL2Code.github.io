@@ -96,13 +96,14 @@ image:
   + AQuA[^aqua]
   + MAWPS[^mawps]
 - ✈️Relevant Model
-  + GPT-Neo
-  + GPT-J
-  + TabNine
-  + Codex
+  + PaLM[^palm]
+  + LaMDA[^lamda]
+  + GPT-3[^gpt3]
+  + Codex[^codex]
+  + UL220B[ul22b]
 - 💕Contribution
-  + They introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities.
-  + They release HumanEval, a new evaluation set to measure functional correctness for synthesizing programs from docstrings.
+  + We explore how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning.
+  + Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks.
 
 ## 📘Reference
 
@@ -142,3 +143,8 @@ image:
 [^asdiv]: [[https://github.com/chaochun/nlu-asdiv-dataset]](https://github.com/chaochun/nlu-asdiv-dataset)
 [^aqua]: [https://github.com/deepmind/AQuA](https://github.com/deepmind/AQuA)
 [^mawps]: [https://github.com/sroy9/mawps](https://github.com/sroy9/mawps)
+[^palm]: [https://nl2code.github.io/posts/PaLM-Scaling-Language-Modeling-with-Pathways](https://nl2code.github.io/posts/PaLM-Scaling-Language-Modeling-with-Pathways)
+[^lamda]: [https://nl2code.github.io/posts/LaMDA-Language-Models-for-Dialog-Applications](https://nl2code.github.io/posts/LaMDA-Language-Models-for-Dialog-Applications)
+[^gpt3]: [https://nl2code.github.io/posts/GPT-3-Language-Models-are-Few-Shot-Learner](https://nl2code.github.io/posts/GPT-3-Language-Models-are-Few-Shot-Learner)
+[^codex]: [https://nl2code.github.io/posts/Evaluating-Large-Language-Models-Trained-on-Code](https://nl2code.github.io/posts/Evaluating-Large-Language-Models-Trained-on-Code)
+[ul22b]: [https://arxiv.org/pdf/2205.05131.pdf](https://arxiv.org/pdf/2205.05131.pdf)
