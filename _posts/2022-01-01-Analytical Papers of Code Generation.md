@@ -3,7 +3,7 @@ title: Analytical Papers of Code Generation
 author: coder
 date: 2022-01-01 00:00:00 +0800
 categories: [other]
-tags: [other papers]
+tags: [other]
 math: true
 ---
 
