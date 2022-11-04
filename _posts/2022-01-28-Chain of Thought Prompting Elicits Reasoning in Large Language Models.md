@@ -100,7 +100,7 @@ image:
   + LaMDA[^lamda]
   + GPT-3[^gpt3]
   + Codex[^codex]
-  + UL220B[ul22b]
+  + UL220B[^ul22b]
 - 💕Contribution
   + We explore how generating a chain of thought—a series of intermediate reasoning steps—significantly improves the ability of large language models to perform complex reasoning.
   + Experiments on three large language models show that chain-of-thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks.
@@ -147,4 +147,4 @@ image:
 [^lamda]: [https://nl2code.github.io/posts/LaMDA-Language-Models-for-Dialog-Applications](https://nl2code.github.io/posts/LaMDA-Language-Models-for-Dialog-Applications)
 [^gpt3]: [https://nl2code.github.io/posts/GPT-3-Language-Models-are-Few-Shot-Learner](https://nl2code.github.io/posts/GPT-3-Language-Models-are-Few-Shot-Learner)
 [^codex]: [https://nl2code.github.io/posts/Evaluating-Large-Language-Models-Trained-on-Code](https://nl2code.github.io/posts/Evaluating-Large-Language-Models-Trained-on-Code)
-[ul22b]: [https://arxiv.org/pdf/2205.05131.pdf](https://arxiv.org/pdf/2205.05131.pdf)
+[^ul22b]: [https://arxiv.org/pdf/2205.05131.pdf](https://arxiv.org/pdf/2205.05131.pdf)
