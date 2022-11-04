@@ -1,9 +1,9 @@
 ---
-title: Analytical Papers
+title: Analytical Papers of Code Generation
 author: coder
 date: 2022-01-01 00:00:00 +0800
 categories: [other]
-tags: [Analytical Papers]
+tags: [other papers]
 math: true
 ---
 
