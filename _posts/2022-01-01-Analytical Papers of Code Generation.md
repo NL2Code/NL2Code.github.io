@@ -10,6 +10,6 @@ math: true
 | **Title** | **Analyzed Question** | **Affiliation** | **Publisher/Date** |
 | :---- | :---------------- | :-------------- | :----------------- |
 | [A Systematic Evaluation of Large Language Models of Code](https://dl.acm.org/doi/pdf/10.1145/3520312.3534862) | How to systematic evaluate large language model of code? | Carnegie Mellon University | ACM/2022 |
-|  |  |  |  |
+| [Exploring and Evaluating Personalized Models for Code Generation](https://arxiv.org/pdf/2208.13928.pdf) | The goal of our experimental design is to investigate whether custom models outperform the baseline model, leading to performance improvements in terms of intrinsic metrics (RQ1), as well as extrinsic task-specific metrics (RQ2). Next, we analyze and compare the different customization approaches in terms of training and compute costs (RQ3) as well as model size and required storage for deployment. | McGill University; Anthropic; Microsoft | FSE/2022 |
 |  |  |  |  |
 
