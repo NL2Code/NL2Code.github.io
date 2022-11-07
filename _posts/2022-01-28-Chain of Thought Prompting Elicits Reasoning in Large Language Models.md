@@ -35,7 +35,10 @@ image:
     * [ ] Other
   + ⚙️How to learn
     * [ ] Supervised Transfer Learning
-    * [x] Unsupervised Transfer Learning
+    * [ ] Unsupervised Transfer Learning
+    * [x] Self-Supervised Transfer Learning
+    * [ ] Semi-Supervised Transfer Learning
+    * [ ] Weak Supervised Transfer Learning
     * [ ] Reinforcement Learning (RL)
     * [ ] Multi-task Learning
     * [ ] Meta Learning
