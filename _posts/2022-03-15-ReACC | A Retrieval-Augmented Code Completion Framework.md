@@ -31,9 +31,11 @@ image:
     * [x] Transformer-based Neural Networks including Encode and Decode
     * [ ] Other
   + ⚙️How to learn
-    * [ ] Supervised Transfer Learning
-    * [ ] Weak Supervised Transfer Learning
+        * [ ] Supervised Transfer Learning
     * [ ] Unsupervised Transfer Learning
+    * [x] Self-Supervised Transfer Learning
+    * [ ] Semi-Supervised Transfer Learning
+    * [ ] Weak Supervised Transfer Learning
     * [ ] Reinforcement Learning (RL)
     * [ ] Multi-task Learning
     * [ ] Meta Learning
