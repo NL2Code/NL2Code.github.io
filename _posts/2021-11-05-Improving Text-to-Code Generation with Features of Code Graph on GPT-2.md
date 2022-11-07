@@ -27,14 +27,16 @@ math: true
     * [ ] Other
   + ⚙️How to learn
     * [ ] Supervised Transfer Learning
-    * [ ] Weak Supervised Transfer Learning
     * [ ] Unsupervised Transfer Learning
+    * [ ] Self-Supervised Transfer Learning
+    * [ ] Semi-Supervised Transfer Learning
+    * [ ] Weak Supervised Transfer Learning
     * [ ] Reinforcement Learning (RL)
     * [ ] Multi-task Learning
     * [ ] Meta Learning
     * [ ] Contrastive Learning
     * [ ] Retrieved-based Learning
-    * [ ] Other
+    * [x] Other
   + 🧬Paradigm
     * [ ] Non-pre-train
     * [x] Pre-train and Fine-tune
