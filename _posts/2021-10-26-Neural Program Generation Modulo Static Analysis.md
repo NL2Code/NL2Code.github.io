@@ -27,8 +27,10 @@ math: true
     * [ ] Other
   + ⚙️How to learn
     * [ ] Supervised Transfer Learning
-    * [x] Weak Supervised Transfer Learning
     * [ ] Unsupervised Transfer Learning
+    * [ ] Self-Supervised Transfer Learning
+    * [ ] Semi-Supervised Transfer Learning
+    * [x] Weak Supervised Transfer Learning
     * [ ] Reinforcement Learning (RL)
     * [ ] Multi-task Learning
     * [ ] Meta Learning
