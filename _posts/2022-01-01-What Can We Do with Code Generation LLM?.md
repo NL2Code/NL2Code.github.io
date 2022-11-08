@@ -15,7 +15,7 @@ math: true
 | [Automatic Program Repair with OpenAI's Codex: Evaluating QuixBugs](https://arxiv.org/pdf/2111.03922.pdf) | Codex | Program Repair | Free University of Bozen-Bolzano | Arxiv/2021 |
 | [A Neural Network Solves, Explains, and Generates University Math Problems by Program Synthesis and Few-Shot Learning at Human Level](https://arxiv.org/pdf/2112.15594.pdf) | GPT-3; Codex | Math Problem | Massachusetts Institute of Technology; Columbia University; Harvard University; University of Waterloo | PNAS/2022 |
 | [SELFIES and the future of molecular string representations](https://arxiv.org/pdf/2204.00056.pdf) | Codex | Chemistry and Materials | Max Planck Institute for the Science of Light;  Fordham University; Vrije Universiteit Amsterdam; ... | Patterns/2022 |
-|  |  |  |  |  |
+| [Solving Linear Algebra by Program Synthesis](https://arxiv.org/pdf/2111.08171.pdf) | Codex | Linear Algebra | MIT; Columbia University | Arxiv/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
