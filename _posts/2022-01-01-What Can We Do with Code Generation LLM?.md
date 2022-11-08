@@ -17,7 +17,7 @@ math: true
 | [SELFIES and the future of molecular string representations](https://arxiv.org/pdf/2204.00056.pdf) | Codex | Chemistry and Materials | Max Planck Institute for the Science of Light;  Fordham University; Vrije Universiteit Amsterdam; ... | Patterns/2022 |
 | [Solving Linear Algebra by Program Synthesis](https://arxiv.org/pdf/2111.08171.pdf) | Codex | Linear Algebra | MIT; Columbia University | Arxiv/2022 |
 | [Solving Probability and Statistics Problems by Program Synthesis](https://arxiv.org/pdf/2111.08267.pdf) | Codex | Probability and Statistics Problems | Harvard University; MIT; Columbia University | Arxiv/2021 |
-|  |  |  |  |  |
+| [Natural Language Processing Models That Automate Programming Will Transform Chemistry Research and Teaching](https://arxiv.org/pdf/2108.13360.pdf) | GPT-3; Codex | Chemistry Research and Teaching | New York University; University of Rochester | Arxiv/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
