@@ -21,7 +21,7 @@ math: true
 | [Evolution through Large Models](https://arxiv.org/pdf/2206.08896.pdf) | GPT-3; Codex | Sodarace Domain | OpenAI | Arxiv/2022 |
 | [Examining Zero-Shot Vulnerability Repair with Large Language Models](https://arxiv.org/pdf/2112.02125.pdf) | Codex; J1[^j1]; PolyCoder[^polycoder]; GPT-2[^gpt2] | Fix Security Bugs | New York University; University of Calgary | IEEE Symposium on Security and Privacy (SP)/2023 |
 | [Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/pdf/2204.00598.pdf) | Large Language Models (LMs); Visual LMs; Audio LMs | Multimodal Reasoning | Google | Arxiv/2022 |
-|  |  |  |  |  |
+| [Patch Generation with Language Models: Feasibility and Scaling Behavior](https://openreview.net/pdf?id=rHlzJh_b1-5) | PolyCoder[^polycoder]; Codex | Patch Generation | Carnegie Mellon University | ICLR/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
