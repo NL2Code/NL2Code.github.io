@@ -14,7 +14,7 @@ math: true
 | [Memorization and Generalization in Neural Code Intelligence Models](https://arxiv.org/pdf/2106.08704.pdf) | The goal of this paper is to evaluate and compare the extent of memorization and generalization in neural code intelligence models. It aims to provide insights on how memorization may impact the learning behavior of neural models in code intelligence systems. | University of Houston; Carnegie Mellon University | 	Information and Software Technology/2022 |
 | [To What Extent do Deep Learning-based Code Recommenders Generate Predictions by Cloning Code from the Training Set?](https://arxiv.org/pdf/2204.06894.pdf) | The goal of this study is to understand the extent to which DL-based code recommenders are prone to suggest code snippets being clones of instances present in the training set. | Università della Svizzera italiana | ACM/2022 |
 | [Looking for a Handsome Carpenter! Debiasing GPT-3 Job Advertisements](https://arxiv.org/pdf/2205.11374.pdf) | Our goal is to generate job ads that are (1) unbiased, i.e., do not encourage or discourage application from one gender; and (2) realistic, i.e., of a quality comparable to human-generated ads. | University of Oxford | NAACL/2022 |
-|  |  |  | 	|
+| [Large Language Models are Not Models of Natural Language: They are Corpus Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9794684) | We argue as a corollary that the term language model is misleading and propose the adoption of the working term corpus model instead, which better reflects the genesis and contents of the model. | University of Bergen | IEEE/2022	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
