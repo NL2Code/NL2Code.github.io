@@ -34,7 +34,7 @@ math: true
 | [Out of the BLEU: How Should We Assess Quality of The Code Generation Models?](https://arxiv.org/pdf/2208.03133.pdf) | How Should We Assess Quality of The Code Generation Models? | JetBrains Research; JetBrains | Arxiv/2022	|
 | [Grounded Copilot: How Programmers Interact with Code-Generating Models](https://arxiv.org/pdf/2206.15000.pdf) | What kinds of tasks do programmers need assistance with? How do programmers prefer to communicate their intent to the tool? How do they validate the generated code to determine its correctness and how do they cope with errors? | UC San Diego | Arxiv/2022	|
 | [An Empirical Evaluation of Competitive Programming AI: A Case Study of AlphaCode](https://arxiv.org/pdf/2208.08603.pdf) | RQ1: Are generated codes similar to human codes? RQ2: Can generated codes perform better than human codes? | Kasetsart University; Nara Institute of Science and Technology | Workshop on Software Clones (IWSC)/2022	|
-|  |  |  | 	|
+| [What is it like to program with artificial intelligence?](https://arxiv.org/pdf/2208.06213.pdf) | What is it like to program with artificial intelligence? | Microsoft Research | Psychology of Programming Interest Group (PPIG)/2022	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
