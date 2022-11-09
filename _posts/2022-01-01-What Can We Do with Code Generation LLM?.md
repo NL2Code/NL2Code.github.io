@@ -27,7 +27,7 @@ math: true
 | [CoditT5: Pretraining for Source Code and Natural Language Editing](https://arxiv.org/pdf/2208.05446.pdf) | CoditT5 | Comment Updating; Bug Fixing; Automated Code Review | The University of Texas at Austin | ASE/2022 |
 | [AdaptivePaste: Code Adaptation through Learning Semantics-aware Variable Usage Representations](https://arxiv.org/pdf/2205.11023.pdf) | Transformer Model | Code Adaptation | Microsoft; Microsoft Research | Arxiv/2022 |
 | [Can Pre-trained Language Models be Used to Resolve Textual and Semantic Merge Conflicts?](https://arxiv.org/pdf/2111.11904.pdf) | GPT-3 | Textual and Semantic Merge Conflicts | Yale University; Microsoft Research; Microsoft Corporation | Arxiv/2021 |
-|  |  |  |  |  |
+| [Generating Diverse Code Explanations using the GPT-3 Large Language Model](https://www.researchgate.net/profile/Stephen-Macneil/publication/362541041_Generating_Diverse_Code_Explanations_using_the_GPT-3_Large_Language_Model/links/62f25f05505511283ea1a315/Generating-Diverse-Code-Explanations-using-the-GPT-3-Large-Language-Model.pdf) | GPT-3 | Code Explanation | Temple University; University of California—San Diego | ACM ICER/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
