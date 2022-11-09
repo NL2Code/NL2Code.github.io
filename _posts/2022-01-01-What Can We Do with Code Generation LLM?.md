@@ -30,7 +30,7 @@ math: true
 | [Generating Diverse Code Explanations using the GPT-3 Large Language Model](https://www.researchgate.net/profile/Stephen-Macneil/publication/362541041_Generating_Diverse_Code_Explanations_using_the_GPT-3_Large_Language_Model/links/62f25f05505511283ea1a315/Generating-Diverse-Code-Explanations-using-the-GPT-3-Large-Language-Model.pdf) | GPT-3 | Code Explanation | Temple University; University of California—San Diego | ACM ICER/2022 |
 | [Few-shot training LLMs for project-specific code-summarization](https://arxiv.org/pdf/2207.04237.pdf) | Codex | Project-specific Code Summarization | University of California | ASE/2022 |
 | [AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models](https://arxiv.org/pdf/2206.11719.pdf) | CodeBERT; GraphCodeBERT; CodeT5; CodeBerta; RoBERTa | AST-Probe | University of Murcia; University of Montreal | ASE/2022 |
-|  |  |  |  |  |
+| [A Dataset and Benchmark for Automatically Answering and Generating Machine Learning Final Exams](https://arxiv.org/pdf/2206.05442.pdf) | GPT-3; Codex | Answering and Generating Machine Learning Final Exams | MIT; Columbia University | Arxiv/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
