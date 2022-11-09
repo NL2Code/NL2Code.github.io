@@ -35,6 +35,12 @@ math: true
 | [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf) | ViNG; CLIP; GPT-3 | Robotic Navigation | UC Berkeley; University of Warsaw; Robotics at Google | Arxiv/2022 |
 | [Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3501385.3543957) | Codex | Programming Exercises Generation; Code Explanation | Aalto University; The University of Auckland | ACM ICER/2022 |
 | [AUGER: Automatically Generating Review Comments with Pre-training Models](https://arxiv.org/pdf/2208.08014.pdf) | CodeBert; T5 | Code Review | Institute of Software, CAS; Univ. of Chinese Academy of Sciences; Wuhan University; Sinosoft Company Limited | FSE/2022 |
+| [Automatic Code Documentation Generation Using GPT-3](https://arxiv.org/pdf/2209.02235.pdf) | GPT-3 | Code Documentation Generation | University of Calgary | ASE/2022 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
