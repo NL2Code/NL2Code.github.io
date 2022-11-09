@@ -20,7 +20,7 @@ math: true
 | [Exploring Length Generalization in Large Language Models](https://arxiv.org/pdf/2207.04901.pdf) | We study combinations of three kinds of techniques for LLMs: finetuning, few shot prompting (also referred to as in-context learning), and use of a scratchpad (also referred to as chain-of-thought), to understand the role of each method and the interplay among the three in length generalization. | Google Research | Arxiv/2022	|
 | [A Case Study on Machine Learning for Synthesizing Benchmarks](https://sertel.github.io/files/synthetic_benchmarks_mapl_2019.pdf) | We have re-evaluated the use of machine learning in CLgen, a method for mining OpenCL kernels from Github and training a generative model from them to produce OpenCL benchmarks. | TU Dresden; University of Edinburgh | ACM MAPL/2019	|
 | [Synthesizing Benchmarks for Predictive Modeling](https://www.research.manchester.ac.uk/portal/files/157727841/CGO17_Clgen.pdf) | Generating valid, executable program code is an ambitious and challenging goal for unsupervised machine learning. We employ state of the art deep language modeling techniques to achieve this task. | University of Edinburgh; Lancaster University | IEEE/2017	|
-|  |  |  | 	|
+| [Choose Your Programming Copilot | A Comparison of the Program Synthesis Performance of GitHub Copilot and Genetic Programming](https://arxiv.org/pdf/2111.07875.pdf) | We evaluate GitHub Copilot on standard program synthesis benchmark problems and compare the achieved results with those from the genetic programming literature. In addition, we discuss the performance of both approaches. | Johannes Gutenberg University | ACM GECCO/2022	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
