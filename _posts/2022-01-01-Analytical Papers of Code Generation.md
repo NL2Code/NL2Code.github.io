@@ -31,7 +31,7 @@ math: true
 | [Language Models (Mostly) Know What They Know](https://arxiv.org/pdf/2207.05221.pdf) | Ask the AI: Is your proposed answer True or False? | Anthropic | Arxiv/2022	|
 | [AI-driven Development Is Here: Should You Worry?](https://arxiv.org/pdf/2204.07560.pdf) | AI-driven Development Is Here: Should You Worry? | University of Victoria; Universita della Svizzera italiana | IEEE/2022	|
 | [Interpreting Docstrings without Using Common Sense: The Private Science of Very Large Language Models](https://static.fsf.org/nosvn/copilot/Interpreting-Docstrings-Without-Common-Sense.pdf) | First we present critical remarks on Copilot’s structure and underlying language model. We then present paths forward for these, identifying specific architectural features that prevent GPT-3 from competing with recent advances due to freely distributed and licensed research software. | Dalhousie University; Brock University | Other/2021	|
-|  |  |  | 	|
+| [Out of the BLEU: How Should We Assess Quality of The Code Generation Models?](https://arxiv.org/pdf/2208.03133.pdf) | How Should We Assess Quality of The Code Generation Models? | JetBrains Research; JetBrains | Arxiv/2022	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
