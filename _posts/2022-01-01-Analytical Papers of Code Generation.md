@@ -29,7 +29,7 @@ math: true
 | [Probing Pretrained Models of Source Code](https://arxiv.org/pdf/2202.08975.pdf) | RQ1: To what extent do the models pretrained on code capture information about source code properties? RQ2: Does multitask pretraining with code-specific objectives provide richer representations? RQ3: How does the model size affect probing results? Which representations are better: provided by the encoder or by the decoder? Which layers provide better representations? RQ4: Does finetuning preserve syntactic and semantic information in different downstream tasks? | HSE University | Arxiv/2022	|
 | [Is GitHub Copilot a Substitute for Human Pair-programming? An Empirical Study](https://ieeexplore.ieee.org/abstract/document/9793778) | Is GitHub copilot a substitute for human pair-programming? | Colby College | ICSE/2022	|
 | [Language Models (Mostly) Know What They Know](https://arxiv.org/pdf/2207.05221.pdf) | Ask the AI: Is your proposed answer True or False? | Anthropic | Arxiv/2022	|
-|  |  |  | 	|
+| [AI-driven Development Is Here: Should You Worry?](https://arxiv.org/pdf/2204.07560.pdf) | AI-driven Development Is Here: Should You Worry? | University of Victoria; Universita della Svizzera italiana | IEEE/2022	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
