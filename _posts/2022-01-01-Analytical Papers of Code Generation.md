@@ -16,6 +16,12 @@ math: true
 | [Looking for a Handsome Carpenter! Debiasing GPT-3 Job Advertisements](https://arxiv.org/pdf/2205.11374.pdf) | Our goal is to generate job ads that are (1) unbiased, i.e., do not encourage or discourage application from one gender; and (2) realistic, i.e., of a quality comparable to human-generated ads. | University of Oxford | NAACL/2022 |
 | [Large Language Models are Not Models of Natural Language: They are Corpus Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9794684) | We argue as a corollary that the term language model is misleading and propose the adoption of the working term corpus model instead, which better reflects the genesis and contents of the model. | University of Bergen | IEEE/2022	|
 | [Neural Models for Automatic Program Repair vs. Human Developers](https://elib.uni-stuttgart.de/bitstream/11682/12293/1/master_thesis_dominik_huber.pdf) | RQ1: How do human developers and APR approaches compare in terms of repair performance? RQ2: Do the attention vectors extracted from APR approaches correlate to those of the human participants? RQ3: Is there a relationship between high human-model correlation and model repair performance? RQ4: What proportion of their attention do developers and models pay to the buggy line versus the surrounding context? RQ5: How much attention do developers and humans pay to different types of tokens? RQ6: What patterns are there in the behavior of human developers?| University of Stuttgart | Other/2022	|
+| [AI Challenges for Society and Ethics](https://arxiv.org/pdf/2206.11068.pdf) | We begin by outlining some of the benefits and opportunities AI promises for society, before turning to some of the most concerning sources of harm and risk AI might pose. We then discuss the kinds of ethical and political challenges that arise in trying to balance these benefits and risks, before concluding with some recommendations for AI governance today. | University of Cambridge | The Oxford Handbook of AI Governance/2022	|
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
