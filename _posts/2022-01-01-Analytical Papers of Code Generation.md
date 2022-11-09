@@ -19,7 +19,7 @@ math: true
 | [AI Challenges for Society and Ethics](https://arxiv.org/pdf/2206.11068.pdf) | We begin by outlining some of the benefits and opportunities AI promises for society, before turning to some of the most concerning sources of harm and risk AI might pose. We then discuss the kinds of ethical and political challenges that arise in trying to balance these benefits and risks, before concluding with some recommendations for AI governance today. | University of Cambridge | The Oxford Handbook of AI Governance/2022	|
 | [Exploring Length Generalization in Large Language Models](https://arxiv.org/pdf/2207.04901.pdf) | We study combinations of three kinds of techniques for LLMs: finetuning, few shot prompting (also referred to as in-context learning), and use of a scratchpad (also referred to as chain-of-thought), to understand the role of each method and the interplay among the three in length generalization. | Google Research | Arxiv/2022	|
 | [A Case Study on Machine Learning for Synthesizing Benchmarks](https://sertel.github.io/files/synthetic_benchmarks_mapl_2019.pdf) | We have re-evaluated the use of machine learning in CLgen, a method for mining OpenCL kernels from Github and training a generative model from them to produce OpenCL benchmarks. | TU Dresden; University of Edinburgh | ACM MAPL/2019	|
-|  |  |  | 	|
+| [Synthesizing Benchmarks for Predictive Modeling](https://www.research.manchester.ac.uk/portal/files/157727841/CGO17_Clgen.pdf) | Generating valid, executable program code is an ambitious and challenging goal for unsupervised machine learning. We employ state of the art deep language modeling techniques to achieve this task. | University of Edinburgh; Lancaster University | IEEE/2017	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
