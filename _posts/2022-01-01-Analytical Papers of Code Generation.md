@@ -30,7 +30,7 @@ math: true
 | [Is GitHub Copilot a Substitute for Human Pair-programming? An Empirical Study](https://ieeexplore.ieee.org/abstract/document/9793778) | Is GitHub copilot a substitute for human pair-programming? | Colby College | ICSE/2022	|
 | [Language Models (Mostly) Know What They Know](https://arxiv.org/pdf/2207.05221.pdf) | Ask the AI: Is your proposed answer True or False? | Anthropic | Arxiv/2022	|
 | [AI-driven Development Is Here: Should You Worry?](https://arxiv.org/pdf/2204.07560.pdf) | AI-driven Development Is Here: Should You Worry? | University of Victoria; Universita della Svizzera italiana | IEEE/2022	|
-|  |  |  | 	|
+| [Interpreting Docstrings without Using Common Sense: The Private Science of Very Large Language Models](https://static.fsf.org/nosvn/copilot/Interpreting-Docstrings-Without-Common-Sense.pdf) | First we present critical remarks on Copilot’s structure and underlying language model. We then present paths forward for these, identifying specific architectural features that prevent GPT-3 from competing with recent advances due to freely distributed and licensed research software. | Dalhousie University; Brock University | Other/2021	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
