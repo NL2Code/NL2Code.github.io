@@ -25,7 +25,7 @@ math: true
 | [FixEval: Execution-based Evaluation of Program Fixes for Programming Problems](https://arxiv.org/pdf/2206.07796.pdf) | PLBART; CodeT5 | Program Repair | Virginia Tech; University of California | Arxiv/2022 |
 | [In-Context Learning for Few-Shot Dialogue State Tracking](https://arxiv.org/pdf/2203.08568.pdf) | GPT-3; Codex; GPT-Neo; CodeGen | Dialogue State Tracking | University of Washington; University of Hong Kong | EMNLP/2022 |
 | [CoditT5: Pretraining for Source Code and Natural Language Editing](https://arxiv.org/pdf/2208.05446.pdf) | CoditT5 | Comment Updating; Bug Fixing; Automated Code Review | The University of Texas at Austin | ASE/2022 |
-|  |  |  |  |  |
+| [AdaptivePaste: Code Adaptation through Learning Semantics-aware Variable Usage Representations](https://arxiv.org/pdf/2205.11023.pdf) | Transformer Model | Code Adaptation | Microsoft; Microsoft Research | Arxiv/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
