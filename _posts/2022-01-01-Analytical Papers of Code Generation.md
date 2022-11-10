@@ -35,6 +35,7 @@ math: true
 | [Grounded Copilot: How Programmers Interact with Code-Generating Models](https://arxiv.org/pdf/2206.15000.pdf) | What kinds of tasks do programmers need assistance with? How do programmers prefer to communicate their intent to the tool? How do they validate the generated code to determine its correctness and how do they cope with errors? | UC San Diego | Arxiv/2022	|
 | [An Empirical Evaluation of Competitive Programming AI: A Case Study of AlphaCode](https://arxiv.org/pdf/2208.08603.pdf) | RQ1: Are generated codes similar to human codes? RQ2: Can generated codes perform better than human codes? | Kasetsart University; Nara Institute of Science and Technology | Workshop on Software Clones (IWSC)/2022	|
 | [What is it like to program with artificial intelligence?](https://arxiv.org/pdf/2208.06213.pdf) | What is it like to program with artificial intelligence? | Microsoft Research | Psychology of Programming Interest Group (PPIG)/2022	|
+| [Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?](https://arxiv.org/pdf/2210.14699.pdf) | RQ1: What is the performance of Copilot and Codex over HumanEval and Leetcode? RQ2: What is the impact of prompt variation on Copilot and Codex performance? RQ3: What is the impact of the variation of both temperature and prompts on Codex performance? RQ4: What are the best prompt variations and temperatures for Codex to maximize its performance over a given set of problems? RQ5: How much can we improve the performance of Codex by tuning the temperature and prompts per a specific problem? | ENS Rennes; Univ Rennes, IUF, CNRS, Inria, IRISA | Arxiv/2022	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
@@ -42,5 +43,10 @@ math: true
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
-
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
 
