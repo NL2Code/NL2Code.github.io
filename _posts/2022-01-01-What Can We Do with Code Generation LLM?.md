@@ -37,7 +37,7 @@ math: true
 | [AUGER: Automatically Generating Review Comments with Pre-training Models](https://arxiv.org/pdf/2208.08014.pdf) | CodeBert; T5 | Code Review | Institute of Software, CAS; Univ. of Chinese Academy of Sciences; Wuhan University; Sinosoft Company Limited | FSE/2022 |
 | [Automatic Code Documentation Generation Using GPT-3](https://arxiv.org/pdf/2209.02235.pdf) | GPT-3 | Code Documentation Generation | University of Calgary | ASE/2022 |
 | [Using Large Language Models to Enhance Programming Error Messages](https://arxiv.org/pdf/2210.11630.pdf) | Codex | Programming Error Messages | Aalto University; Abilene Christian University; The University of Auckland; University College Dublin | SIGCSE TS/2023 |
-|  |  |  |  |  |
+| [Language Models of Code are Few-Shot Commonsense Learners](https://arxiv.org/pdf/2210.07128.pdf) | Codex; GPT-3; T5 | Structured Commonsense Reasoning | Carnegie Mellon University; Inspired Cognition | EMNLP/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
