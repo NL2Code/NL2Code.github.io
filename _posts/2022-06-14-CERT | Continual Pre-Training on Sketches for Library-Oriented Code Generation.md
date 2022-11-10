@@ -78,6 +78,10 @@ image:
     * [ ] Variable 
     * [ ] PL keywords
     * [ ] Code Comment
+    * [ ] Natural Language to Code Pairs
+    * [ ] Jupyter Notebook
+    * [ ] Programmatic Idioms
+    * [x] Code Sketches
     * [ ] Other Resources
   + 🚀Platform
     * [x] GitHub
