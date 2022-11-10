@@ -39,7 +39,7 @@ math: true
 | [Using Large Language Models to Enhance Programming Error Messages](https://arxiv.org/pdf/2210.11630.pdf) | Codex | Programming Error Messages | Aalto University; Abilene Christian University; The University of Auckland; University College Dublin | SIGCSE TS/2023 |
 | [Language Models of Code are Few-Shot Commonsense Learners](https://arxiv.org/pdf/2210.07128.pdf) | Codex; GPT-3; T5 | Structured Commonsense Reasoning | Carnegie Mellon University; Inspired Cognition | EMNLP/2022 |
 | [Binding Language Models in Symbolic Languages](https://arxiv.org/pdf/2210.02875.pdf) | GPT-3; Codex | Knowledge Grounding | The University of Hong Kong; Shanghai Jiao Tong University; University of Washington; Allen Institute for AI; University of Waterloo; Salesforce Research; Yale University; Meta AI | Arxiv/2022 |
-|  |  |  |  |  |
+| [Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language](https://arxiv.org/pdf/2210.12810.pdf) | Codex; GPT-3 | Structured Prediction Problems like Event Argument Extraction | University of Illinois Urbana-Champaign | Arxiv/2022 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
