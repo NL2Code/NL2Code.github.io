@@ -2,8 +2,8 @@
 title: Getting Started
 author: coder
 date: 2000-01-01 00:00:00 +0800
-categories: [Getting Started]
-tags: [Getting Started]
+categories: [getting started]
+tags: [getting started]
 pin: true
 ---
 
