@@ -3,7 +3,7 @@ title: CodeSearchNet Challenge | Evaluating the State of Semantic Code Search
 author: coder
 date: 2019-09-20 00:00:00 +0800
 categories: [arxiv]
-tags: [benchmarks, metrics]
+tags: [benchmarks]
 math: true
 pin: false
 ---
