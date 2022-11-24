@@ -2,7 +2,7 @@
 title: Execution-based Evaluation for Data Science Code Generation Models
 author: coder
 date: 2022-11-17 00:00:00 +0800
-categories: [arxiv]
+categories: [EMNLP]
 tags: [benchmarks, metrics]
 math: true
 image:
@@ -15,7 +15,7 @@ image:
 ## 📙Proposed Benchmark 
 
 - Benchmark Name: `ExeDS`[^exeds]
-- 📚Publisher/Date: `Arxiv/2022`
+- 📚Publisher/Date: `EMNLP/2022`
 - 🏠Author Affiliation: Beihang University; Microsoft; Hong Kong University of Science and Technology; Toronto University
 - 🔗URL: [https://github.com/Jun-jie-Huang/ExeDS](https://github.com/Jun-jie-Huang/ExeDS)
 - Feature: Data Science Code Generation
