@@ -3,7 +3,7 @@ title: ClawSAT | Towards Both Robust and Accurate Code Models
 author: coder
 date: 2022-11-21 00:00:00 +0800
 categories: [arxiv]
-tags: [methods, models, benchmarks, metrics]
+tags: [methods]
 math: true
 image:
   path: /assets/imgs/clawsat.png
