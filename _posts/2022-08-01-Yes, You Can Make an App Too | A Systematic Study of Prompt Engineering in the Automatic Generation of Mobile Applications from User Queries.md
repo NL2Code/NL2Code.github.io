@@ -5,11 +5,6 @@ date: 2021-07-14 00:00:00 +0800
 categories: [other]
 tags: [methods, benchmarks]
 math: true
-image:
-  path: /assets/imgs/make_app.png
-  width: 800
-  height: 500
-  alt: Prompt engineering pipeline.
 ---
 
 ## 🌸Method
