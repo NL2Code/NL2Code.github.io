@@ -7,7 +7,7 @@ We hope that our work can facilitate the research work of researchers in NL2Code
 ## Citation
 
 ```
-@misc{zan2022neural,
+@misc{nl2code,
       title={When Neural Model Meets NL2Code: A Survey}, 
       author={Daoguang Zan and Bei Chen and Fengji Zhang and Dianjie Lu and Bingchao Wu and Bei Guan and Yongji Wang and Jian-Guang Lou},
       year={2022},
