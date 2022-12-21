@@ -13,7 +13,7 @@ math: true
 | [Deep Learning for Source Code Modeling and Generation: Models, Applications and Challenges](https://www.researchgate.net/profile/Triet_Le8/publication/342136852_Deep_Learning_for_Source_Code_Modeling_and_Generation_Models_Applications_and_Challenges/links/610616db1e95fe241a9e6e61/Deep-Learning-for-Source-Code-Modeling-and-Generation-Models-Applications-and-Challenges.pdf) | 1. They focus not only on code generation, but also on code modeling; 2. Their paper was published in 2020, when large language models like codex were not yet available. | The University of Adelaide | CSUR/2020 |
 | [A Comprehensive Survey on Program Synthesis with Evolutionary Algorithms](https://ieeexplore.ieee.org/abstract/document/9743417) | 1. They focus on code generation based on evolutionary algorithms, while we focus on neural code generation. | Johannes Gutenberg University | IEEE Transactions on Evolutionary Computation/2021 |
 | [Code Generation Tools (Almost) for Free? A Study of Few-Shot, Pre-Trained Language Models on Code](https://arxiv.org/pdf/2206.01335.pdf) | 1. They focus on few-shot learning with large-scale, pre-trained language models (FSLMs), while we focus on neural code generation including benchmarks, metrics, methods, models and products. | University of Stuttgart; Federal University of Pernambuco | Arxiv/2022 |
-|  |  |  |  |
+| [A Survey on Pretrained Language Models for Neural Code Intelligence](https://arxiv.org/pdf/2212.10079.pdf) | 1. They focus on code intelligence, not just code generation, and they do not include large language models. | EPFL; UCLA | Arxiv/2022 |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
