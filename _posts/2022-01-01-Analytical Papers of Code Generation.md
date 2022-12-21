@@ -39,6 +39,7 @@ math: true
 | [Aligning Offline Metrics and Human Judgments of Value of AI-Pair Programmers](https://arxiv.org/pdf/2210.16494.pdf) | RQ1: For a given programming task, which AI generations do programmers rate as most valuable? For instance, do programmers rate generations that (they think) accurately solve the task as most valuable? Or do they rate generations that require the least effort to edit and adapt for solving the task as most valuable? RQ2: How well do existing offline metrics for evaluating generations align with programmers’ rating of value? Does functional correctness account for all generations that programmers find valuable? RQ3: Can similarity-based offline metrics help capture the most valuable code generations? And can we combine functional correctness and similarity metrics to develop metrics that even better align with programmers’ perceived value? | Microsoft Research; University of Chicago | Arxiv/2022	|
 | [Are NLP Metrics Suitable for Evaluating Generated Code?](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_38) | RQ1: Which metrics can be used to evaluate the ease of modifying generated code in terms of modification time? RQ2: Which metrics can be used to evaluate the ease of modifying generated code in terms of the size of changes to the code needed to modify it? | Osaka University; Nippon Telegraph and Telephone Corporation | PROFES/2022 |
 | [Explainable AI for Pre-Trained Code Models: What Do They Learn? When They Do Not Work?](https://arxiv.org/pdf/2211.12821.pdf) | RQ1: Is the attention mechanism suitable to explain the pre-trained code models? RQ2: What do the pre-trained code models learn? RQ3: When do the pre-trained code models not work? | University of Calgary; Monash University; York University | Empirical Software Engineering/2022 |
+| [Is Self-Attention Powerful to Learn Code Syntax and Semantics?](https://arxiv.org/pdf/2212.10017.pdf) | RQ1. Does CodeBERT learn programming language syntax? We validate whether CodeBERT learns syntax in the token-level probing tasks. Since programming syntax is regular, we expect CodeBERT to learn it well. RQ2: Does CodeBERT learn code semantics? How well can CodeBERT learn code semantics through MLM and self-attention? RQ3: Could CodeBERT pay more attention to the tokens that are dependent on each other? We study how the attention weights are distributed among dependent and non-depended tokens. RQ4: How to improve the performance of CodeBERT based on our analysis? We want to leverage our analysis to help the developers to use CodeBERT. Probing analysis can help us understand how CodeBERT learns code data, however, we should also investigate whether or not they can bring some practical benefits. | Nanyang Technology University; LMU Munich; Singapore Management University; University of Luxembourg; Huawei | Arxiv/2022	|
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
@@ -49,4 +50,7 @@ math: true
 |  |  |  | 	|
 |  |  |  | 	|
 |  |  |  | 	|
-
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
+|  |  |  | 	|
