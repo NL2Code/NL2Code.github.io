@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## 🐹Background
+
+In software engineering field, code generation, alias NL2Code, aims to generate decent code snippet for a given natural language description.
+With the burgeoning popularity of large language models, they have been explored for solving this task, and work very well. 
+
+## 💪Our Mission
+We build this website to thoroughly survey the crossover direction between the artificial intelligence and the software engineering.
