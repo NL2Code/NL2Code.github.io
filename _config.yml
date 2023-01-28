@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: NL2Code                          # the main title
 
-tagline: Large Language Models Meet NL2Code: A Survey   # it will display as the sub-title
+tagline: A Survey of Large Language Models   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
