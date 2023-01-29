@@ -11,6 +11,7 @@ pin: false
 - 📙Paper: [Competition-level code generation with AlphaCode](https://www.science.org/doi/full/10.1126/science.abq1158)
 - 📚Publisher: `Science`
 - 🏠Author Affiliation: `Deepmind`
+- 🔑Public: ❌
 - 🌐Architecture
   + [x] Encoder-Decoder
   + [ ] Decoder-Only
