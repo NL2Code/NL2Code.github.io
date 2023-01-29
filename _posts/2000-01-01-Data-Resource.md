@@ -19,3 +19,8 @@ pin: true
 ## [APPS](https://huggingface.co/datasets/codeparrot/apps)
 > a benchmark for code generation with 10000 problems.
 
+## [Github-Code](https://huggingface.co/datasets/codeparrot/github-code)
+> The GitHub Code dataset consists of 115M code files from GitHub in 32 programming languages with 60 extensions totaling in 1TB of data. The dataset was created from the public GitHub dataset on Google BiqQuery. 1) a 1TB dataset of 32 programming languages from GitHub files. 2) a cleaner version of GitHub-Code dataset.
+
+## [GitHub-Jupyter](https://huggingface.co/datasets/codeparrot/github-jupyter)
+> The dataset was extracted from Jupyter Notebooks on BigQuery. 1) a 16.3GB dataset of Jupyter Notebooks from BigQuery GitHub. 2) a dataset of text and code pairs extracted from Jupyter notebooks, it is a parsed version of github-jupyter dataset.
