@@ -13,7 +13,7 @@ math: true
 - 🔗URL: [https://github.com/deepmind/code_contests](https://github.com/deepmind/code_contests)
 - Number of Instances: `165`
 - Problem Description's Natural Language: `English`
-- Code Solution's Programming Language: `Multilingual`
+- Code Solution's Programming Language: `Python`, `C++`, `Java`
 - Data Statistics
   + Test Case: ✅
   + Average Number of Test Cases: `203.7`
