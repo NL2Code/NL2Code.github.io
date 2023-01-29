@@ -37,8 +37,8 @@ pin: false
     * We add a set of tokens representing whitespace indentation of different lengths in PL
 - 🧪Hyperparameters (ERNIE-Code 560M)
   + optimizer: AdaFa
+    * betas: /
     * eps: /
-    * bs: /
   + batch size: a micro-batch size of 8/4
   + context window: `1,024`
   + gradient accumulation steps: `15`
