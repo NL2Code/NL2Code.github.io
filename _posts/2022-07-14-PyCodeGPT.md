@@ -33,8 +33,8 @@ pin: false
     * We train a new BBPE tokenizer from scrach on the collected code data.
 - 🧪Hyperparameters (PyCodeGPT 110M)
   + optimizer: AdamW
-    * eps: 0.9, 0.95
-    * bs: 1e-8
+    * betas: 0.9, 0.95
+    * eps: 1e-8
   + batch size: 480K tokens
   + context window: `1,024`
   + gradient accumulation steps: `4`
