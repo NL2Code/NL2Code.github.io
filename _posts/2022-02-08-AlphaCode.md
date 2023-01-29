@@ -32,8 +32,8 @@ pin: false
   + Details: /
 - 🧪Hyperparameters (AlphaCode 41.1B)
   + optimizer: AdamW
-    * eps: 0.9, 0.95
-    * bs: /
+    * betas: 0.9, 0.95
+    * eps: /
   + batch size: `2,048`
   + context window: `6,144`
   + gradient accumulation steps: /
