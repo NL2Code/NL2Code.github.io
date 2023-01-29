@@ -35,7 +35,7 @@ pin: false
     * bs: /
   + batch size: `2,048`
   + context window: `6,144`
-  + gradient accumulation steps: \
+  + gradient accumulation steps: /
   + warmup steps: `1,000`
   + learning rate: `1e-4`
   + weight decay: `0.1`
