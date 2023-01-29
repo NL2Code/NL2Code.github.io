@@ -34,8 +34,8 @@ pin: false
     * /
 - 🧪Hyperparameters (PanGu-Coder 2.6B)
   + optimizer: Adam
-    * eps: 0.9, 0.95
-    * bs: /
+    * betas: 0.9, 0.95
+    * eps: /
   + batch size: `256`
   + context window: `1,024`
   + gradient accumulation steps: /
