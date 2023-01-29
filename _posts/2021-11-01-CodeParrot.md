@@ -36,8 +36,8 @@ pin: false
     * Trained GPT-2 tokenizer on the training split
 - 🧪Hyperparameters (CodeParrot 1.5B)
   + optimizer: AdamW
-    * eps: 0.9, 0.999
-    * bs: 1e-8
+    * betas: 0.9, 0.999
+    * eps: 1e-8
   + batch size: `512` or `524K` tokens
   + context window: `1,024`
   + gradient accumulation steps: `16`
