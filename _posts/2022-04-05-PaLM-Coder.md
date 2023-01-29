@@ -34,8 +34,8 @@ pin: false
     * /
 - 🧪Hyperparameters (PaLM-Coder 540B)
   + optimizer: Adafa.
+    * betas: /
     * eps: /
-    * bs: /
   + batch size: PaLM 540B: we use batch size 512 (1M tokens) until step 50k, then double it to 1024 (2M tokens) until step 115k, and finally double again it to 2048 (4M tokens) until training is complete at step 255k. The smaller models followed similar schedules.
   + context window: `2,048`
   + gradient accumulation steps: /
