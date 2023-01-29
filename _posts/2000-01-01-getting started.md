@@ -13,6 +13,13 @@ pin: true
 
 A website where we can share the advances in large language models for NL2Code researches.
 
+## ✏️Add Your Own Model/Benchmark/Metric/Product
+
+1. Follow [the guide](https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/master/_posts/2019-08-08-text-and-typography.md) to write markdown file for your work;
+2. [Pull requests](https://github.com/NL2Code/NL2Code.github.io/pulls) for this markdown file to `NL2Code.github.io/_posts/` and wait for our feedback.
+
+
+
 
 ## 🌈Feedback
 
