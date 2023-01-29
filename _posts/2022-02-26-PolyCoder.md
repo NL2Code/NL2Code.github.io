@@ -32,8 +32,8 @@ pin: false
     * Trained GPT-2 tokenizer on a random 5% subset (all languages)
 - 🧪Hyperparameters (PolyCoder 2.7B)
   + optimizer: AdamW
-    * eps: 0.9, 0.999
-    * bs: 1e-8
+    * betas: 0.9, 0.999
+    * eps: 1e-8
   + batch size: 262K tokens
   + context window: `2,048`
   + gradient accumulation steps: /
