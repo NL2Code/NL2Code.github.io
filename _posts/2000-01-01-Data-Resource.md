@@ -4,7 +4,7 @@ author: coder
 date: 2000-01-01 00:00:00 +0800
 categories: [other]
 tags: [resources]
-pin: true
+pin: false
 ---
 ## [CodeNet](https://github.com/IBM/Project_CodeNet)
 > Project CodeNet is a large scale dataset with approximately 14 million code samples, each of which is an intended solution to one of 4000 coding problems.
