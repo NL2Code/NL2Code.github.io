@@ -49,3 +49,6 @@ pin: false
 
 ## [XLCoST](https://github.com/reddy-lab-code-research/XLCoST)
 > The dataset contains around 1 million parallel snippets and 123K parallel programs in total, which is significantly larger than many available parallel code datasets. ( C++, Java, Py, C#, JS, PHP, C, English)
+
+## [CrossCodeBench](https://github.com/NougatCA/CrossCodeBench)
+> The large-scale benchmark includes 216 existing code-related tasks. Then, we annotate each task with the corresponding meta information such as task description and instruction, which contains detailed information about the task and a solution guide.
