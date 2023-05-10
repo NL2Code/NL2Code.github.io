@@ -14,4 +14,4 @@ We build this website to thoroughly survey the crossover direction between the a
 
 ---
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3kQdJBnPun1pWcAWAxtbtuYaElPZBQdKgwNBJx9HsyA"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3kQdJBnPun1pWcAWAxtbtuYaElPZBQdKgwNBJx9HsyA"></script>
