@@ -1,0 +1,14 @@
+---
+title: CodeGen2
+author: coder
+date: 2023-05-03 00:00:00 +0800
+categories: [arxiv]
+tags: [models]
+math: true
+pin: false
+---
+
+- 📙Paper: [CodeGen2 Lessons for Training LLMs on Programming and Natural Languages](https://arxiv.org/pdf/2305.02309.pdf)
+- 📚Publisher: `arxiv`
+- 🏠Author Affiliation: `Salesforce Research`
+- 🔑Public: ✅
