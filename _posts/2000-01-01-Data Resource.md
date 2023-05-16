@@ -52,3 +52,6 @@ pin: false
 
 ## [CrossCodeBench](https://github.com/NougatCA/CrossCodeBench)
 > The large-scale benchmark includes 216 existing code-related tasks. Then, we annotate each task with the corresponding meta information such as task description and instruction, which contains detailed information about the task and a solution guide.
+
+## [The Vault](https://github.com/FSoft-AI4Code/TheVault)
+> The Vault dataset is a comprehensive, large-scale, multilingual parallel dataset that features high-quality code-text pairs derived from The Stack, the largest permissively-licensed source code dataset.We provide The Vault which contains code snippets from 10 popular programming languages such as Java, JavaScript, Python, Ruby, Rust, Golang, C#, C++, C, and PHP. This dataset provides multiple code-snippet levels, metadata, and 11 docstring styles for enhanced usability and versatility.
