@@ -2,13 +2,13 @@
 title: AquilaCode
 author: coder
 date: 2023-07-24 00:00:00 +0800
-categories: [arxiv]
+categories: [huggingface]
 tags: [models]
 math: true
 pin: false
 ---
 
-- 📚Publisher: `arxiv`
+- 📚Publisher: `huggingface`
 - 🏠Author Affiliation: `Wudao`
 - 🔑Public: ✅
 - 🌐Architecture
