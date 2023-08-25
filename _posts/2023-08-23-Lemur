@@ -1,0 +1,25 @@
+---
+title: Lemur
+author: coder
+date: 2023-08-23 00:00:00 +0800
+categories: [Github]
+tags: [models]
+math: true
+pin: false
+---
+
+-
+- 📚Publisher: `Github`
+- 🏠Author Affiliation: `Xlang Lab`
+- 🔑Public: ✅
+- 🌐Architecture
+  + [ ] Encoder-Decoder
+  + [x] Decoder-Only
+- 📏Model Size
+  + `70B`
+- 🍉Lemur
+  + the state-of-the-art open pretrained and supervised fine-tuned large language models balancing text and code intelligence
+- 🌐Github
+  + https://github.com/OpenLemur/Lemur
+- 🌐Huggingface
+  + https://huggingface.co/OpenLemur/lemur-70b-v1
