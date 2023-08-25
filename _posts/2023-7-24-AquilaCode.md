@@ -9,7 +9,7 @@ pin: false
 ---
 
 - 📚Publisher: `huggingface`
-- 🏠Author Affiliation: `Wudao`
+- 🏠Author Affiliation: `BAAI`
 - 🔑Public: ✅
 - 🌐Architecture
   + [ ] Encoder-Decoder
