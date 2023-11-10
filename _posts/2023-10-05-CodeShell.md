@@ -1,4 +1,4 @@
-![image](https://github.com/NL2Code/NL2Code.github.io/assets/113005871/db87f9a3-4135-4471-a569-f7061362445c)---
+---
 title: CodeShell
 author: coder
 date: 2023-10-05 00:00:00 +0800
