@@ -7,6 +7,6 @@ tags: [models]
 math: true
 pin: false
 ---
-- 📙Paper: [WaveCoder | Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation](https://arxiv.org/abs/2312.14187)
+- 📙Paper: [WaveCoder Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation](https://arxiv.org/abs/2312.14187)
 - 📚Publisher: `arxiv`
 - 🏠Author Affiliation: `Microsoft`
